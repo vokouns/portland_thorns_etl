@@ -1,0 +1,28 @@
+CREATE TABLE goalkeepers (
+	Player NVARCHAR(50),
+	Nation NVARCHAR(50),
+	Age NVARCHAR(50),
+	Min INT,
+	SoTA INT,
+	GA INT,
+	Saves INT,
+	SavePct INT,
+	PSxG DECIMAL(4,1),
+	Cmp INT NULL,
+	PassAtt INT,
+	CmpPct INT NULL,
+	GKAtt INT,
+	Thr INT,
+	LaunchPct INT NULL,
+	AvgLen DECIMAL(4,1),
+	Opp INT,
+	Stp INT NULL,
+	StpPct DECIMAL(4, 1) NULL,
+	OPA INT NULL,
+	AvgDist DECIMAL(4,1),
+	JerseyNumber INT,
+	game_id NVARCHAR(50),
+	player_id NVARCHAR(50)
+CONSTRAINT pk_goalkeepers PRIMARY KEY (player_id),
+CONSTRAINT fk_goalkeepers FOREIGN KEY (game_id) REFERENCES match_metadata (game_id)
+);

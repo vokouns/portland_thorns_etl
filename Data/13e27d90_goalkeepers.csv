@@ -1,0 +1,4 @@
+Player,Nation,Age,Min,SoTA,GA,Saves,SavePct,PSxG,Cmp,PassAtt,CmpPct,GKAtt,Thr,LaunchPct,AvgLen,Opp,Stp,StpPct,OPA,AvgDist,JerseyNumber,game_id,player_id
+Mackenzie Arnold,au AUS,31-067,90,4,0,4,100,0.7,3,4,25,26,1,50,38.3,17,2,11.8,3,13.6,18,13e27d90,18MackenzieArnold13e27d90
+Anna Moorhouse,eng ENG,30-034,50,5,1,4,80,0.8,,2,,14,5,,23.5,5,,,,16,1,13e27d90,1AnnaMoorhouse13e27d90
+McKinley Crone,,,40,1,0,1,100,0,1,4,50,13,1,0,24.8,2,0,0,0,,40,13e27d90,40McKinleyCrone13e27d90

@@ -1,0 +1,27 @@
+﻿minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id
+4,Hina Sugita,Club Crest Thorns,0.04,0,Blocked,29,Right Foot,,Sam Coffey,Pass (Live),Isabella Obaze,Interception,1
+14,Marta,Club Crest Pride,0.06,0,Blocked,4,Right Foot,Volley,Ally Lemos,Pass (Dead),Kerry Abello,Pass (Live),2
+16,Reyna Reyes,Club Crest Thorns,0.05,0.43,Goal,23,Left Foot,,Olivia Moultrie,Pass (Live),Isabella Obaze,Pass (Live),3
+18,Olivia Moultrie,Club Crest Thorns,0.1,0.19,Saved,18,Right Foot,Volley,Hina Sugita,Pass (Live),Deyna Castellanos,Pass (Live),4
+24,Reilyn Turner,Club Crest Thorns,0.02,0,Off Target,16,Head,,Sam Coffey,Pass (Dead),Deyna Castellanos,Fouled,5
+25,Deyna Castellanos,Club Crest Thorns,0.02,0,Blocked,33,Right Foot,,Sam Coffey,Pass (Live),Hina Sugita,Pass (Live),6
+27,Barbra Banda,Club Crest Pride,0.03,0,Off Target,16,Right Foot,,Barbra Banda,Take-On,Carson Pickett,Pass (Dead),7
+28,Marta,Club Crest Pride,0.15,0.36,Saved,8,Left Foot,,Barbra Banda,Pass (Live),Haley Hanson,Pass (Live),8
+28,Barbra Banda,Club Crest Pride,0.15,0,Blocked,17,Left Foot,,Marta,Shot,,,9
+30,Barbra Banda,Club Crest Pride,0.03,0,Blocked,15,Right Foot,,Carson Pickett,Pass (Live),Marta,Pass (Live),10
+35,Reyna Reyes,Club Crest Thorns,0.02,0.05,Saved,13,Head,,Olivia Moultrie,Pass (Dead),Reilyn Turner,Fouled,11
+38,Reilyn Turner,Club Crest Thorns,0.24,0,Blocked,11,Left Foot,,Reilyn Turner,Take-On,Deyna Castellanos,Pass (Live),12
+46,Deyna Castellanos,Club Crest Thorns,0.03,0,Off Target,21,Right Foot,,Reilyn Turner,Pass (Live),Reilyn Turner,Tackle,13
+47,Olivia Moultrie,Club Crest Thorns,0.05,0.03,Saved,25,Right Foot,,,,,,14
+47,Marie-Yasmine Alidou,Club Crest Thorns,0.12,0.14,Saved,11,Right Foot,,Olivia Moultrie,Shot,,,15
+59,Olivia Moultrie,Club Crest Thorns,0.03,0,Blocked,30,Left Foot,,Hina Sugita,Pass (Live),Deyna Castellanos,Pass (Live),16
+59,Sam Coffey,Club Crest Thorns,0.02,0,Blocked,32,Right Foot,,Hina Sugita,Pass (Live),Olivia Moultrie,Shot,17
+59,Olivia Moultrie,Club Crest Thorns,0.04,0,Blocked,20,Left Foot,,Isabella Obaze,Pass (Live),Marie-Yasmine Alidou,Pass (Live),18
+62,Ally Watt,Club Crest Pride,0.52,0.59,Saved,11,Right Foot,,Barbra Banda,Pass (Live),Ally Watt,Tackle,19
+64,Barbra Banda,Club Crest Pride,0.08,0,Blocked,12,Right Foot,Volley,Ally Watt,Fouled,,,20
+69,Barbra Banda,Club Crest Pride,0.06,0.06,Saved,11,Right Foot,,,,,,21
+74,Payton Linnehan,Club Crest Thorns,0.04,0.03,Saved,14,Right Foot,,Sam Coffey,Pass (Live),Jessie Fleming,Pass (Live),22
+76,Barbra Banda,Club Crest Pride,0.12,0,Blocked,8,Head,,Angelina,Pass (Live),Cori Dyke,Pass (Live),23
+78,Ally Watt,Club Crest Pride,0.15,0.13,Saved,10,Head,,Angelina,Pass (Dead),Barbra Banda,Fouled,24
+82,Payton Linnehan,Club Crest Thorns,0.34,0,Off Target,17,Left Foot,,Olivia Moultrie,Pass (Live),Olivia Moultrie,Take-On,25
+84,Grace Chanda,Club Crest Pride,0.07,0,Off Target,17,Left Foot,,Barbra Banda,Pass (Live),Haley Hanson,Pass (Live),26
