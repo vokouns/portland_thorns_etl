@@ -1,0 +1,32 @@
+Player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,CmpPct,PrgP,Carries,PrgC,Succ,game_id,player_id,team_name
+Kimmi Ascanio,17,us USA,FW,17-109,77,1,0,0,0,1,1,0,0,23,1,2,0,0.4,0.4,0.0,0,0,6,0,42.9,0,15,0,0,6a832d3c,17KimmiAscanio6a832d3c,San Diego Wave
+Kyra Carusa,19,ie IRL,FW,29-177,13,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,1,0,3,0,60.0,1,3,0,0,6a832d3c,19KyraCarusa6a832d3c,San Diego Wave
+Maria Sanchez,7,mx MEX,LW,29-079,43,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,1,0,5,0,55.6,1,9,0,0,6a832d3c,7MariaSanchez6a832d3c,San Diego Wave
+Kristen McNabb,14,us USA,CB LW,31-023,47,0,0,0,0,0,0,0,0,36,0,0,1,0.0,0.0,0.0,0,0,25,1,75.8,0,26,0,1,6a832d3c,14KristenMcNabb6a832d3c,San Diego Wave
+Delphine Cascarino,20,fr FRA,RW,28-094,86,0,0,0,0,0,0,0,0,39,2,1,1,0.0,0.0,0.0,1,0,28,2,87.5,3,23,2,2,6a832d3c,20DelphineCascarino6a832d3c,San Diego Wave
+Makenzy Doniak,15,us USA,RW,31-074,4,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,3,1,75.0,1,2,0,0,6a832d3c,15MakenzyDoniak6a832d3c,San Diego Wave
+Gia Corley,11,de GER,AM,22-355,45,0,0,0,0,1,0,0,0,16,0,1,1,0.1,0.1,0.0,1,1,9,0,90.0,0,14,1,0,6a832d3c,11GiaCorley6a832d3c,San Diego Wave
+Adriana Leon,9,ca CAN,AM,32-220,45,0,0,0,0,2,1,0,0,13,1,0,0,0.1,0.1,0.0,1,0,7,0,63.6,1,11,2,0,6a832d3c,9AdrianaLeon6a832d3c,San Diego Wave
+Kenza Dali,10,fr FRA,DM,33-283,90,0,0,0,0,1,1,0,0,75,0,2,0,0.0,0.0,0.1,1,0,57,5,83.8,2,48,4,5,6a832d3c,10KenzaDali6a832d3c,San Diego Wave
+Savannah McCaskill,21,us USA,DM,28-283,90,0,0,0,0,0,0,0,0,73,0,1,2,0.0,0.0,0.0,1,0,55,1,83.3,3,49,0,1,6a832d3c,21SavannahMcCaskill6a832d3c,San Diego Wave
+Perle Morroni,75,fr FRA,LB,27-207,90,0,1,0,0,0,0,0,0,64,1,0,2,0.0,0.0,0.4,1,1,44,3,78.6,3,29,3,0,6a832d3c,75PerleMorroni6a832d3c,San Diego Wave
+Trinity Armstrong,3,us USA,CB,17-289,90,0,0,0,0,0,0,0,0,64,0,0,2,0.0,0.0,0.0,0,0,51,0,89.5,0,31,0,0,6a832d3c,3TrinityArmstrong6a832d3c,San Diego Wave
+Kennedy Wesley,12,us USA,CB,24-063,40,0,0,0,0,0,0,0,1,32,0,0,0,0.0,0.0,0.0,0,0,26,0,86.7,0,21,0,0,6a832d3c,12KennedyWesley6a832d3c,San Diego Wave
+Hanna Lundkvist,6,se SWE,RB,22-297,90,0,0,0,0,0,0,0,0,62,2,1,0,0.0,0.0,0.0,0,0,47,3,83.9,1,28,0,3,6a832d3c,6HannaLundkvist6a832d3c,San Diego Wave
+Kailen Sheridan,1,ca CAN,GK,29-298,90,0,0,0,0,0,0,0,0,77,0,0,0,0.0,0.0,0.0,0,0,51,0,67.1,0,44,0,0,6a832d3c,1KailenSheridan6a832d3c,San Diego Wave
+Reilyn Turner,66,us USA,FW,22-205,69,0,0,0,0,3,0,0,0,18,0,0,0,0.9,0.9,0.1,4,0,8,0,66.7,2,7,0,0,6a832d3c,66ReilynTurner6a832d3c,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-041,21,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,0,60.0,0,0,0,0,6a832d3c,19PietraTordin6a832d3c,Portland Thorns FC
+Deyna Castellanos,10,ve VEN,LW,26-022,78,0,0,0,0,7,1,0,0,34,1,1,1,0.4,0.4,0.5,5,0,14,0,63.6,3,21,1,0,6a832d3c,10DeynaCastellanos6a832d3c,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,LW,30-012,12,0,0,0,0,0,0,0,0,6,1,0,1,0.0,0.0,0.1,1,0,3,0,100.0,0,3,1,0,6a832d3c,26Marie-YasmineAlidou6a832d3c,Portland Thorns FC
+Jessie Fleming,21,ca CAN,RW,27-060,69,0,0,0,0,0,0,0,0,22,1,0,0,0.0,0.0,0.4,2,0,8,0,47.1,3,11,0,0,6a832d3c,21JessieFleming6a832d3c,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-046,21,0,0,0,0,0,0,0,0,8,1,0,0,0.0,0.0,0.0,0,0,5,0,100.0,0,5,1,0,6a832d3c,15PaytonLinnehan6a832d3c,Portland Thorns FC
+Olivia Moultrie,13,us USA,AM,19-235,90,0,0,0,0,3,0,0,0,45,2,2,1,0.2,0.2,0.1,6,0,26,1,72.2,8,23,5,1,6a832d3c,13OliviaMoultrie6a832d3c,Portland Thorns FC
+Hina Sugita,8,jp JPN,DM,28-099,90,0,0,0,0,2,0,0,0,76,5,1,2,0.1,0.1,0.3,5,0,43,2,74.1,5,33,1,1,6a832d3c,8HinaSugita6a832d3c,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-130,90,0,0,0,0,3,1,0,0,67,3,0,0,0.1,0.1,0.1,6,2,48,3,85.7,8,35,2,1,6a832d3c,17SamCoffey6a832d3c,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-083,69,0,0,0,0,0,0,0,0,48,0,1,0,0.0,0.0,0.0,2,0,32,0,78.0,5,24,2,0,6a832d3c,2ReynaReyes6a832d3c,Portland Thorns FC
+Mallie McKenzie,29,us USA,LB,24-178,21,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,0,0,12,1,85.7,1,2,0,0,6a832d3c,29MallieMcKenzie6a832d3c,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-079,90,1,0,1,1,0,0,0,0,73,1,0,0,0.7,0.0,0.0,3,0,56,0,87.5,7,43,2,0,6a832d3c,24JaydenPerry6a832d3c,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-124,90,0,0,0,0,0,0,0,0,53,1,1,1,0.0,0.0,0.0,2,0,45,0,91.8,6,20,0,0,6a832d3c,16SamanthaHiatt6a832d3c,Portland Thorns FC
+Isabella Obaze,5,dk DEN,RB,22-192,45,0,0,0,0,0,0,0,0,27,2,1,0,0.0,0.0,0.0,0,0,16,0,72.7,3,9,0,0,6a832d3c,5IsabellaObaze6a832d3c,Portland Thorns FC
+Caiya Hanks,7,us USA,RB,20-226,45,0,0,0,0,2,1,0,0,18,0,0,0,0.3,0.3,0.1,3,0,9,2,75.0,2,14,3,0,6a832d3c,7CaiyaHanks6a832d3c,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-171,90,0,0,0,0,0,0,0,0,28,0,0,0,0.0,0.0,0.0,0,0,24,0,92.3,0,16,0,0,6a832d3c,1BellaBixby6a832d3c,Portland Thorns FC
