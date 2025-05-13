@@ -1,1 +1,1 @@
-﻿player,JerseyNumber,nation,pos,age,min,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_pct,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,int,tkl+int,clr,er
+﻿player,JerseyNumber,nation,pos,age,min,tackles_tkl,tackles_tklw,tackles_def_3rd,tackles_mid_3rd,tackles_att_3rd,challenges_tkl,challenges_att,challenges_tkl_pct,challenges_lost,blocks_blocks,blocks_sh,blocks_pass,interceptions,tkl_int,clearances,errors,game_id,player_id,team_name

@@ -1,26 +1,26 @@
 minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
-5,Deyna Castellanos,Club Crest Thorns,0.06,0.0,Off Target,25,Right Foot,,Sam Coffey,Pass (Dead),Olivia Moultrie,Fouled,27,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
-6,Gia Corley,Club Crest Wave,0.09,0.0,Blocked,19,Right Foot,,Maria Sanchez,Pass (Live),,,28,6a832d3c,11GiaCorley6a832d3c6a832d3c
+5,Deyna Castellanos,Club Crest Thorns,0.06,0,Off Target,25,Right Foot,,Sam Coffey,Pass (Dead),Olivia Moultrie,Fouled,27,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
+6,Gia Corley,Club Crest Wave,0.09,0,Blocked,19,Right Foot,,Maria Sanchez,Pass (Live),,,28,6a832d3c,11GiaCorley6a832d3c6a832d3c
 6,Kimmi Ascanio,Club Crest Wave,0.4,0.94,Goal,5,Head,,Perle Morroni,Pass (Live),Gia Corley,Shot,29,6a832d3c,17KimmiAscanio6a832d3c6a832d3c
-8,Sam Coffey,Club Crest Thorns,0.07,0.0,Blocked,17,Right Foot,,Reilyn Turner,Pass (Live),Deyna Castellanos,Pass (Live),30,6a832d3c,17SamCoffey6a832d3c6a832d3c
-10,Deyna Castellanos,Club Crest Thorns,0.04,0.0,Blocked,27,Right Foot,,Reilyn Turner,Pass (Live),Samantha Hiatt,Pass (Live),31,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
-12,Olivia Moultrie,Club Crest Thorns,0.08,0.0,Off Target,24,Right Foot,Free kick,Reilyn Turner,Fouled,,,32,6a832d3c,13OliviaMoultrie6a832d3c6a832d3c
-15,Hina Sugita,Club Crest Thorns,0.03,0.0,Off Target,28,Left Foot,,Reyna Reyes,Pass (Live),Sam Coffey,Pass (Live),33,6a832d3c,8HinaSugita6a832d3c6a832d3c
-42,Deyna Castellanos,Club Crest Thorns,0.11,0.0,Blocked,23,Right Foot,Free kick,Olivia Moultrie,Fouled,Deyna Castellanos,Pass (Live),34,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
-43,Deyna Castellanos,Club Crest Thorns,0.04,0.0,Off Target,16,Right Foot,Volley,Reilyn Turner,Pass (Live),Olivia Moultrie,Pass (Dead),35,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
-45+4,Olivia Moultrie,Club Crest Thorns,0.03,0.0,Blocked,22,Right Foot,,Hina Sugita,Pass (Live),Samantha Hiatt,Pass (Live),36,6a832d3c,13OliviaMoultrie6a832d3c6a832d3c
-45+4,Reilyn Turner,Club Crest Thorns,0.42,0.0,Off Target,8,Right Foot,Volley,Jessie Fleming,Pass (Live),Sam Coffey,Pass (Live),37,6a832d3c,66ReilynTurner6a832d3c6a832d3c
+8,Sam Coffey,Club Crest Thorns,0.07,0,Blocked,17,Right Foot,,Reilyn Turner,Pass (Live),Deyna Castellanos,Pass (Live),30,6a832d3c,17SamCoffey6a832d3c6a832d3c
+10,Deyna Castellanos,Club Crest Thorns,0.04,0,Blocked,27,Right Foot,,Reilyn Turner,Pass (Live),Samantha Hiatt,Pass (Live),31,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
+12,Olivia Moultrie,Club Crest Thorns,0.08,0,Off Target,24,Right Foot,Free kick,Reilyn Turner,Fouled,,,32,6a832d3c,13OliviaMoultrie6a832d3c6a832d3c
+15,Hina Sugita,Club Crest Thorns,0.03,0,Off Target,28,Left Foot,,Reyna Reyes,Pass (Live),Sam Coffey,Pass (Live),33,6a832d3c,8HinaSugita6a832d3c6a832d3c
+42,Deyna Castellanos,Club Crest Thorns,0.11,0,Blocked,23,Right Foot,Free kick,Olivia Moultrie,Fouled,Deyna Castellanos,Pass (Live),34,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
+43,Deyna Castellanos,Club Crest Thorns,0.04,0,Off Target,16,Right Foot,Volley,Reilyn Turner,Pass (Live),Olivia Moultrie,Pass (Dead),35,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
+49,Olivia Moultrie,Club Crest Thorns,0.03,0,Blocked,22,Right Foot,,Hina Sugita,Pass (Live),Samantha Hiatt,Pass (Live),36,6a832d3c,13OliviaMoultrie6a832d3c6a832d3c
+49,Reilyn Turner,Club Crest Thorns,0.42,0,Off Target,8,Right Foot,Volley,Jessie Fleming,Pass (Live),Sam Coffey,Pass (Live),37,6a832d3c,66ReilynTurner6a832d3c6a832d3c
 49,Kenza Dali,Club Crest Wave,0.02,0.15,Saved,27,Right Foot,,Savannah McCaskill,Pass (Live),Delphine Cascarino,Pass (Live),38,6a832d3c,10KenzaDali6a832d3c6a832d3c
 54,Deyna Castellanos,Club Crest Thorns,0.03,0.35,Saved,24,Right Foot,,Jessie Fleming,Pass (Live),Hina Sugita,Pass (Live),39,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
 54,Caiya Hanks,Club Crest Thorns,0.21,0.29,Saved,11,Left Foot,Deflected,Hina Sugita,Pass (Live),Deyna Castellanos,Shot,40,6a832d3c,7CaiyaHanks6a832d3c6a832d3c
-55,Deyna Castellanos,Club Crest Thorns,0.11,0.0,Off Target,11,Left Foot,,Olivia Moultrie,Pass (Live),,,41,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
+55,Deyna Castellanos,Club Crest Thorns,0.11,0,Off Target,11,Left Foot,,Olivia Moultrie,Pass (Live),,,41,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
 58,Adriana Leon,Club Crest Wave,0.02,0.1,Saved,27,Right Foot,,Adriana Leon,Tackle,,,42,6a832d3c,9AdrianaLeon6a832d3c6a832d3c
-61,Reilyn Turner,Club Crest Thorns,0.4,0.0,Off Target,9,Left Foot,Volley,Deyna Castellanos,Pass (Live),Caiya Hanks,Pass (Live),43,6a832d3c,66ReilynTurner6a832d3c6a832d3c
-62,Reilyn Turner,Club Crest Thorns,0.05,0.0,Off Target,11,Head,,Deyna Castellanos,Pass (Live),Jayden Perry,Pass (Live),44,6a832d3c,66ReilynTurner6a832d3c6a832d3c
-63,Deyna Castellanos,Club Crest Thorns,0.05,0.0,Off Target,11,Head,,Sam Coffey,Pass (Live),Reyna Reyes,Pass (Live),45,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
-75,Caiya Hanks,Club Crest Thorns,0.06,0.0,Off Target,12,Right Foot,,Hina Sugita,Pass (Live),Jayden Perry,Pass (Live),46,6a832d3c,7CaiyaHanks6a832d3c6a832d3c
-86,Olivia Moultrie,Club Crest Thorns,0.05,0.0,Blocked,21,Left Foot,,Marie-Yasmine Alidou,Pass (Live),,,47,6a832d3c,13OliviaMoultrie6a832d3c6a832d3c
-86,Sam Coffey,Club Crest Thorns,0.04,0.0,Blocked,26,Left Foot,,Caiya Hanks,Pass (Live),Olivia Moultrie,Shot,48,6a832d3c,17SamCoffey6a832d3c6a832d3c
-89,Hina Sugita,Club Crest Thorns,0.05,0.0,Off Target,17,Left Foot,,Olivia Moultrie,Pass (Live),Hina Sugita,Pass (Live),49,6a832d3c,8HinaSugita6a832d3c6a832d3c
-90+4,Sam Coffey,Club Crest Thorns,0.03,0.02,Saved,24,Left Foot,,Caiya Hanks,Pass (Live),Jayden Perry,Pass (Live),50,6a832d3c,17SamCoffey6a832d3c6a832d3c
-90+4,Adriana Leon,Club Crest Wave,0.1,0.0,Off Target,14,Left Foot,,Kenza Dali,Pass (Live),Kyra Carusa,Pass (Live),51,6a832d3c,9AdrianaLeon6a832d3c6a832d3c
+61,Reilyn Turner,Club Crest Thorns,0.4,0,Off Target,9,Left Foot,Volley,Deyna Castellanos,Pass (Live),Caiya Hanks,Pass (Live),43,6a832d3c,66ReilynTurner6a832d3c6a832d3c
+62,Reilyn Turner,Club Crest Thorns,0.05,0,Off Target,11,Head,,Deyna Castellanos,Pass (Live),Jayden Perry,Pass (Live),44,6a832d3c,66ReilynTurner6a832d3c6a832d3c
+63,Deyna Castellanos,Club Crest Thorns,0.05,0,Off Target,11,Head,,Sam Coffey,Pass (Live),Reyna Reyes,Pass (Live),45,6a832d3c,10DeynaCastellanos6a832d3c6a832d3c
+75,Caiya Hanks,Club Crest Thorns,0.06,0,Off Target,12,Right Foot,,Hina Sugita,Pass (Live),Jayden Perry,Pass (Live),46,6a832d3c,7CaiyaHanks6a832d3c6a832d3c
+86,Olivia Moultrie,Club Crest Thorns,0.05,0,Blocked,21,Left Foot,,Marie-Yasmine Alidou,Pass (Live),,,47,6a832d3c,13OliviaMoultrie6a832d3c6a832d3c
+86,Sam Coffey,Club Crest Thorns,0.04,0,Blocked,26,Left Foot,,Caiya Hanks,Pass (Live),Olivia Moultrie,Shot,48,6a832d3c,17SamCoffey6a832d3c6a832d3c
+89,Hina Sugita,Club Crest Thorns,0.05,0,Off Target,17,Left Foot,,Olivia Moultrie,Pass (Live),Hina Sugita,Pass (Live),49,6a832d3c,8HinaSugita6a832d3c6a832d3c
+94,Sam Coffey,Club Crest Thorns,0.03,0.02,Saved,24,Left Foot,,Caiya Hanks,Pass (Live),Jayden Perry,Pass (Live),50,6a832d3c,17SamCoffey6a832d3c6a832d3c
+94,Adriana Leon,Club Crest Wave,0.1,0,Off Target,14,Left Foot,,Kenza Dali,Pass (Live),Kyra Carusa,Pass (Live),51,6a832d3c,9AdrianaLeon6a832d3c6a832d3c

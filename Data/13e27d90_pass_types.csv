@@ -1,34 +1,34 @@
-player,#,nation,pos,age,min,att,pass_types_live,pass_types_dead,pass_types_fk,pass_types_tb,pass_types_sw,pass_types_crs,pass_types_ti,pass_types_ck,corner_kicks_in,corner_kicks_out,corner_kicks_str,outcomes_cmp,outcomes_off,outcomes_blocks,game_id,player_id
-Reilyn Turner,66,us USA,FW,22-198,70,14,14,0,0,0,0,0,0,0,0,0,0,9,0,0.0,13e27d90,66Reilyn Turner13e27d90
-Jessie Fleming,21,ca CAN,"CM,FW",27-053,20,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0.0,13e27d90,21Jessie Fleming13e27d90
-Deyna Castellanos,10,ve VEN,"LW,FW",26-015,87,20,19,1,0,1,0,1,1,0,0,0,0,12,0,0.0,13e27d90,10Deyna Castellanos13e27d90
-Sophie Hirst,14,us USA,FW,25-067,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,13e27d90,14Sophie Hirst13e27d90
-Marie-Yasmine Alidou,26,ca CAN,RW,30-005,70,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0.0,13e27d90,26Marie-Yasmine Alidou13e27d90
-Payton Linnehan,15,us USA,RW,24-039,20,15,14,1,0,0,0,0,1,0,0,0,0,11,0,1.0,13e27d90,15Payton Linnehan13e27d90
-Hina Sugita,8,jp JPN,LM,28-092,90,39,37,1,0,0,0,1,1,0,0,0,0,34,1,0.0,13e27d90,8Hina Sugita13e27d90
-Sam Coffey,17,us USA,"CM,RM",26-123,90,35,30,5,3,1,0,1,1,0,0,0,0,30,0,1.0,13e27d90,17Sam Coffey13e27d90
-Olivia Moultrie,13,us USA,"RM,LW",19-228,89,34,29,5,4,0,0,3,0,1,0,0,0,24,0,0.0,13e27d90,13Olivia Moultrie13e27d90
-Pietra Tordin,19,us USA,LW,21-034,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,13e27d90,19Pietra Tordin13e27d90
-Reyna Reyes,2,mx MEX,LB,24-076,90,38,27,11,2,0,0,1,9,0,0,0,0,31,0,0.0,13e27d90,2Reyna Reyes13e27d90
-Jayden Perry,24,us USA,CB,24-072,90,35,32,3,3,0,0,0,0,0,0,0,0,27,0,1.0,13e27d90,24Jayden Perry13e27d90
-Samantha Hiatt,16,us USA,CB,27-117,90,26,24,2,2,0,0,0,0,0,0,0,0,21,0,1.0,13e27d90,16Samantha Hiatt13e27d90
-Isabella Obaze,5,dk DEN,RB,22-185,80,34,24,10,2,0,0,1,8,0,0,0,0,25,0,0.0,13e27d90,5Isabella Obaze13e27d90
-Mallie McKenzie,29,us USA,RB,24-171,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0.0,13e27d90,29Mallie McKenzie13e27d90
-Mackenzie Arnold,18,au AUS,GK,31-067,90,30,23,7,3,0,0,0,0,0,0,0,0,21,0,0.0,13e27d90,18Mackenzie Arnold13e27d90
-Barbra Banda,22,zm ZAM,FW,25-044,90,16,14,2,0,1,0,0,0,0,0,0,0,11,0,2.0,13e27d90,22Barbra Banda13e27d90
-Marta,10,br BRA,FW,39-073,74,22,22,0,0,0,0,0,0,0,0,0,0,16,0,1.0,13e27d90,10Marta13e27d90
-Prisca Chilufya,9,zm ZAM,FW,25-329,16,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1.0,13e27d90,9Prisca Chilufya13e27d90
-Kerry Abello,25,us USA,"LM,LB",25-228,90,47,37,10,1,0,0,2,9,0,0,0,0,42,0,0.0,13e27d90,25Kerry Abello13e27d90
-Haley Hanson,2,us USA,CM,29-090,90,29,29,0,0,0,0,2,0,0,0,0,0,20,0,2.0,13e27d90,2Haley Hanson13e27d90
-Ally Lemos,30,us USA,CM,21-060,67,27,24,3,2,0,1,2,0,1,1,0,0,20,0,1.0,13e27d90,30Ally Lemos13e27d90
-Viviana Villacorta,14,us USA,CM,26-090,23,7,7,0,0,0,0,0,0,0,0,0,0,6,0,1.0,13e27d90,14Viviana Villacorta13e27d90
-Ally Watt,11,us USA,RM,28-052,82,14,13,1,0,0,0,1,1,0,0,0,0,6,0,1.0,13e27d90,11Ally Watt13e27d90
-Grace Chanda,23,zm ZAM,RM,27-326,8,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0.0,13e27d90,23Grace Chanda13e27d90
-Carson Pickett,19,us USA,LB,31-230,67,39,29,10,5,0,0,5,1,4,4,0,0,31,0,1.0,13e27d90,19Carson Pickett13e27d90
-Angelina,15,br BRA,"LM,LB",25-097,23,27,21,6,3,0,0,5,1,2,0,2,0,19,0,0.0,13e27d90,15Angelina13e27d90
-Zara Chavosi,34,ca CAN,CB,22-148,90,78,78,0,0,0,0,0,0,0,0,0,0,65,0,0.0,13e27d90,34Zara Chavosi13e27d90
-Emily Sams,6,us USA,CB,25-306,90,64,60,4,4,0,0,0,0,0,0,0,0,56,0,1.0,13e27d90,6Emily Sams13e27d90
-Oihane Hernández,21,es ESP,RB,24-364,67,29,20,9,2,0,0,0,7,0,0,0,0,26,0,1.0,13e27d90,21Oihane Hernández13e27d90
-Cori Dyke,12,us USA,RB,24-225,23,22,14,8,1,0,0,1,7,0,0,0,0,17,0,1.0,13e27d90,12Cori Dyke13e27d90
-Anna Moorhouse,1,eng ENG,GK,30-034,50,16,14,2,0,0,0,0,0,0,0,0,0,14,0,0.0,13e27d90,1Anna Moorhouse13e27d90
-McKinley Crone,40,,GK,,40,16,13,3,0,0,0,0,0,0,0,0,0,15,0,,13e27d90,40McKinley Crone13e27d90
+player,JerseyNumber,nation,pos,age,min,att,pass_types_live,pass_types_dead,pass_types_fk,pass_types_tb,pass_types_sw,pass_types_crs,pass_types_ti,pass_types_ck,corner_kicks_in,corner_kicks_out,corner_kicks_str,outcomes_cmp,outcomes_off,outcomes_blocks,game_id,player_id,team_name
+Reilyn Turner,66,us USA,FW,22-198,70,14,14,0,0,0,0,0,0,0,0,0,0,9,0,0,13e27d90,66Reilyn Turner13e27d90,Portland Thorns FC
+Jessie Fleming,21,ca CAN,CM FW,27-053,20,10,10,0,0,0,0,0,0,0,0,0,0,9,0,0,13e27d90,21Jessie Fleming13e27d90,Portland Thorns FC
+Deyna Castellanos,10,ve VEN,LW FW,26-015,87,20,19,1,0,1,0,1,1,0,0,0,0,12,0,0,13e27d90,10Deyna Castellanos13e27d90,Portland Thorns FC
+Sophie Hirst,14,us USA,FW,25-067,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,13e27d90,14Sophie Hirst13e27d90,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,RW,30-005,70,12,12,0,0,0,0,0,0,0,0,0,0,9,0,0,13e27d90,26Marie-Yasmine Alidou13e27d90,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-039,20,15,14,1,0,0,0,0,1,0,0,0,0,11,0,1,13e27d90,15Payton Linnehan13e27d90,Portland Thorns FC
+Hina Sugita,8,jp JPN,LM,28-092,90,39,37,1,0,0,0,1,1,0,0,0,0,34,1,0,13e27d90,8Hina Sugita13e27d90,Portland Thorns FC
+Sam Coffey,17,us USA,CM RM,26-123,90,35,30,5,3,1,0,1,1,0,0,0,0,30,0,1,13e27d90,17Sam Coffey13e27d90,Portland Thorns FC
+Olivia Moultrie,13,us USA,RM LW,19-228,89,34,29,5,4,0,0,3,0,1,0,0,0,24,0,0,13e27d90,13Olivia Moultrie13e27d90,Portland Thorns FC
+Pietra Tordin,19,us USA,LW,21-034,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13e27d90,19Pietra Tordin13e27d90,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-076,90,38,27,11,2,0,0,1,9,0,0,0,0,31,0,0,13e27d90,2Reyna Reyes13e27d90,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-072,90,35,32,3,3,0,0,0,0,0,0,0,0,27,0,1,13e27d90,24Jayden Perry13e27d90,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-117,90,26,24,2,2,0,0,0,0,0,0,0,0,21,0,1,13e27d90,16Samantha Hiatt13e27d90,Portland Thorns FC
+Isabella Obaze,5,dk DEN,RB,22-185,80,34,24,10,2,0,0,1,8,0,0,0,0,25,0,0,13e27d90,5Isabella Obaze13e27d90,Portland Thorns FC
+Mallie McKenzie,29,us USA,RB,24-171,10,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,13e27d90,29Mallie McKenzie13e27d90,Portland Thorns FC
+Mackenzie Arnold,18,au AUS,GK,31-067,90,30,23,7,3,0,0,0,0,0,0,0,0,21,0,0,13e27d90,18Mackenzie Arnold13e27d90,Portland Thorns FC
+Barbra Banda,22,zm ZAM,FW,25-044,90,16,14,2,0,1,0,0,0,0,0,0,0,11,0,2,13e27d90,22Barbra Banda13e27d90,Orlando Pride
+Marta,10,br BRA,FW,39-073,74,22,22,0,0,0,0,0,0,0,0,0,0,16,0,1,13e27d90,10Marta13e27d90,Orlando Pride
+Prisca Chilufya,9,zm ZAM,FW,25-329,16,6,6,0,0,0,0,0,0,0,0,0,0,4,0,1,13e27d90,9Prisca Chilufya13e27d90,Orlando Pride
+Kerry Abello,25,us USA,LM LB,25-228,90,47,37,10,1,0,0,2,9,0,0,0,0,42,0,0,13e27d90,25Kerry Abello13e27d90,Orlando Pride
+Haley Hanson,2,us USA,CM,29-090,90,29,29,0,0,0,0,2,0,0,0,0,0,20,0,2,13e27d90,2Haley Hanson13e27d90,Orlando Pride
+Ally Lemos,30,us USA,CM,21-060,67,27,24,3,2,0,1,2,0,1,1,0,0,20,0,1,13e27d90,30Ally Lemos13e27d90,Orlando Pride
+Viviana Villacorta,14,us USA,CM,26-090,23,7,7,0,0,0,0,0,0,0,0,0,0,6,0,1,13e27d90,14Viviana Villacorta13e27d90,Orlando Pride
+Ally Watt,11,us USA,RM,28-052,82,14,13,1,0,0,0,1,1,0,0,0,0,6,0,1,13e27d90,11Ally Watt13e27d90,Orlando Pride
+Grace Chanda,23,zm ZAM,RM,27-326,8,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,13e27d90,23Grace Chanda13e27d90,Orlando Pride
+Carson Pickett,19,us USA,LB,31-230,67,39,29,10,5,0,0,5,1,4,4,0,0,31,0,1,13e27d90,19Carson Pickett13e27d90,Orlando Pride
+Angelina,15,br BRA,LM LB,25-097,23,27,21,6,3,0,0,5,1,2,0,2,0,19,0,0,13e27d90,15Angelina13e27d90,Orlando Pride
+Zara Chavosi,34,ca CAN,CB,22-148,90,78,78,0,0,0,0,0,0,0,0,0,0,65,0,0,13e27d90,34Zara Chavosi13e27d90,Orlando Pride
+Emily Sams,6,us USA,CB,25-306,90,64,60,4,4,0,0,0,0,0,0,0,0,56,0,1,13e27d90,6Emily Sams13e27d90,Orlando Pride
+Oihane Hernández,21,es ESP,RB,24-364,67,29,20,9,2,0,0,0,7,0,0,0,0,26,0,1,13e27d90,21Oihane Hernández13e27d90,Orlando Pride
+Cori Dyke,12,us USA,RB,24-225,23,22,14,8,1,0,0,1,7,0,0,0,0,17,0,1,13e27d90,12Cori Dyke13e27d90,Orlando Pride
+Anna Moorhouse,1,eng ENG,GK,30-034,50,16,14,2,0,0,0,0,0,0,0,0,0,14,0,0,13e27d90,1Anna Moorhouse13e27d90,Orlando Pride
+McKinley Crone,40,,GK,,40,16,13,3,0,0,0,0,0,0,0,0,0,15,0,0,13e27d90,40McKinley Crone13e27d90,Orlando Pride
