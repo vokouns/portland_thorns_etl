@@ -1,0 +1,28 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+4,Temwa Chaŵinga,Club Crest Current,0.43,0.74,Goal,14,Right Foot,,Debinha,Pass (Live),Vanessa DiBernardo,Pass (Live),52,7239a666,6TemwaChaŵinga7239a6667239a666
+12,Lo'eau LaBonta,Club Crest Current,0.11,0.0,Off Target,10,Right Foot,Volley,Debinha,Pass (Dead),Michelle Cooper,Pass (Live),53,7239a666,10Lo'eauLaBonta7239a6667239a666
+24,Michelle Cooper,Club Crest Current,0.04,0.22,Goal,30,Right Foot,,Michelle Cooper,Take-On,Claire Hutton,Pass (Live),54,7239a666,17MichelleCooper7239a6667239a666
+35,Jessie Fleming,Club Crest Thorns,0.03,0.0,Off Target,27,Right Foot,,Jayden Perry,Pass (Live),Reyna Reyes,Pass (Live),55,7239a666,21JessieFleming7239a6667239a666
+36,Deyna Castellanos,Club Crest Thorns,0.03,0.09,Saved,28,Right Foot,,,,,,56,7239a666,10DeynaCastellanos7239a6667239a666
+38,Debinha,Club Crest Current,0.37,0.73,Goal,5,Right Foot,,Debinha,Pass (Live),Debinha,Interception,57,7239a666,99Debinha7239a6667239a666
+49,Deyna Castellanos,Club Crest Thorns,0.04,0.0,Off Target,11,Head,,Hina Sugita,Pass (Live),Kaitlyn Torpey,Pass (Live),58,7239a666,10DeynaCastellanos7239a6667239a666
+51,Ellie Wheeler,Club Crest Current,0.08,0.12,Saved,12,Left Foot,,Debinha,Pass (Live),Vanessa DiBernardo,Pass (Live),59,7239a666,5EllieWheeler7239a6667239a666
+52,Alana Cook,Club Crest Current,0.03,0.0,Blocked,11,Head,,Debinha,Pass (Dead),Ellie Wheeler,Shot,60,7239a666,15AlanaCook7239a6667239a666
+52,Elizabeth Ball,Club Crest Current,0.04,0.0,Off Target,18,Right Foot,,Michelle Cooper,Pass (Live),Alana Cook,Shot,61,7239a666,7ElizabethBall7239a6667239a666
+47,Ellie Wheeler,Club Crest Current,0.03,0.0,Blocked,32,Left Foot,Deflected,Michelle Cooper,Fouled,Vanessa DiBernardo,Pass (Live),62,7239a666,5EllieWheeler7239a6667239a666
+48,Jessie Fleming,Club Crest Thorns,0.05,0.08,Saved,14,Left Foot,,Deyna Castellanos,Pass (Live),Deyna Castellanos,Tackle,63,7239a666,21JessieFleming7239a6667239a666
+49,Olivia Moultrie,Club Crest Thorns,0.05,0.39,Goal,13,Right Foot,,Hina Sugita,Pass (Live),Kaitlyn Torpey,Pass (Live),64,7239a666,13OliviaMoultrie7239a6667239a666
+54,Deyna Castellanos,Club Crest Thorns,0.03,0.0,Blocked,37,Right Foot,Free kick,Jessie Fleming,Fouled,Deyna Castellanos,Pass (Live),65,7239a666,10DeynaCastellanos7239a6667239a666
+58,Vanessa DiBernardo,Club Crest Current,0.12,0.0,Blocked,11,Right Foot,,Temwa Chaŵinga,Pass (Live),Debinha,Pass (Live),66,7239a666,16VanessaDiBernardo7239a6667239a666
+58,Michelle Cooper,Club Crest Current,0.14,0.16,Saved,11,Right Foot,,Claire Hutton,Pass (Live),,,67,7239a666,17MichelleCooper7239a6667239a666
+67,Michelle Cooper,Club Crest Current,0.06,0.0,Blocked,22,Right Foot,,Debinha,Pass (Live),Vanessa DiBernardo,Pass (Live),68,7239a666,17MichelleCooper7239a6667239a666
+71,Nichelle Prince,Club Crest Current,0.11,0.0,Blocked,21,Right Foot,,Temwa Chaŵinga,Pass (Live),Raquel Rodríguez,Tackle,69,7239a666,8NichellePrince7239a6667239a666
+76,Nichelle Prince,Club Crest Current,0.11,0.0,Off Target,16,Right Foot,,Temwa Chaŵinga,Pass (Live),Debinha,Pass (Live),70,7239a666,8NichellePrince7239a6667239a666
+77,Temwa Chaŵinga,Club Crest Current,0.15,0.15,Saved,10,Right Foot,,Temwa Chaŵinga,Take-On,Debinha,Pass (Live),71,7239a666,6TemwaChaŵinga7239a6667239a666
+78,Debinha,Club Crest Current,0.06,0.0,Off Target,16,Right Foot,,Temwa Chaŵinga,Pass (Live),Vanessa DiBernardo,Pass (Live),72,7239a666,99Debinha7239a6667239a666
+84,Olivia Moultrie (pen),Club Crest Thorns,0.73,0.0,Woodwork,13,Right Foot,,,Fouled,Jayden Perry,Pass (Live),73,7239a666,nan7239a666
+89,Pietra Tordin,Club Crest Thorns,0.1,0.0,Blocked,10,Right Foot,Volley,,,,,74,7239a666,19PietraTordin7239a6667239a666
+89,Reilyn Turner,Club Crest Thorns,0.07,0.0,Blocked,11,Right Foot,Volley,Pietra Tordin,Shot,,,75,7239a666,66ReilynTurner7239a6667239a666
+89,Isabella Obaze,Club Crest Thorns,0.02,0.0,Blocked,34,Right Foot,,Reilyn Turner,Shot,,,76,7239a666,5IsabellaObaze7239a6667239a666
+97,Mallie McKenzie,Club Crest Thorns,0.03,0.0,Blocked,22,Right Foot,,Olivia Moultrie,Pass (Live),Kaitlyn Torpey,Pass (Live),77,7239a666,29MallieMcKenzie7239a6667239a666
+97,Olivia Moultrie,Club Crest Thorns,0.03,0.0,Blocked,23,Right Foot,,Mallie McKenzie,Shot,,,78,7239a666,13OliviaMoultrie7239a6667239a666
