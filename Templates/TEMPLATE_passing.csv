@@ -1,1 +1,1 @@
-﻿Player,Jersey_number,Nation,Pos,Age,Min,total_Cmp,total_Att,total_Cmp_pct,total_TotDist,total_PrgDist,short_Cmp,short_Att,short_Cmp_pct,medium_Cmp,medium_Att,medium_Cmp_pct,long_Cmp,long_Att,long_Cmp_pct,Ast,xAG,xA,KP,final_third,PPA,CrsPA,PrgP,game_id,player_id,team_name
+﻿player,Jersey_number,Nation,Pos,Age,Min,total_Cmp,total_Att,total_Cmp_pct,total_TotDist,total_PrgDist,short_Cmp,short_Att,short_Cmp_pct,medium_Cmp,medium_Att,medium_Cmp_pct,long_Cmp,long_Att,long_Cmp_pct,Ast,xAG,xA,KP,final_third,PPA,CrsPA,PrgP,game_id,player_id,team_name

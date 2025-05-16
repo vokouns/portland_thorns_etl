@@ -1,0 +1,32 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+9,Kennedy Fuller,Club Crest Angel City,0.04,0.26,Goal,18,Left Foot,,Gisele Thompson,Pass (Live),Alanna Kennedy,Pass (Live),79,7958f078,17KennedyFuller7958f0787958f078
+11,Payton Linnehan,Club Crest Thorns,0.09,0.18,Saved,12,Right Foot,,Olivia Moultrie,Pass (Live),,,80,7958f078,15PaytonLinnehan7958f0787958f078
+13,Alyssa Thompson,Club Crest Angel City,0.11,0.07,Saved,20,Right Foot,,Claire Emslie,Pass (Live),Alyssa Thompson,Pass (Live),81,7958f078,21AlyssaThompson7958f0787958f078
+15,Kaitlyn Torpey,Club Crest Thorns,0.02,0.0,Off Target,33,Right Foot,,Deyna Castellanos,Pass (Live),Reyna Reyes,Pass (Dead),82,7958f078,20KaitlynTorpey7958f0787958f078
+17,Deyna Castellanos,Club Crest Thorns,0.03,0.0,Blocked,24,Right Foot,,Kaitlyn Torpey,Pass (Live),Hina Sugita,Pass (Live),83,7958f078,10DeynaCastellanos7958f0787958f078
+18,Isabella Obaze,Club Crest Thorns,0.07,0.09,Saved,17,Right Foot,,Olivia Moultrie,Pass (Live),Sam Coffey,Pass (Dead),84,7958f078,5IsabellaObaze7958f0787958f078
+19,Reilyn Turner,Club Crest Thorns,0.03,0.03,Saved,25,Right Foot,,Reyna Reyes,Tackle,,,85,7958f078,66ReilynTurner7958f0787958f078
+20,Olivia Moultrie,Club Crest Thorns,0.06,0.0,Off Target,20,Left Foot,,,,,,86,7958f078,13OliviaMoultrie7958f0787958f078
+25,Claire Emslie,Club Crest Angel City,0.04,0.0,Blocked,23,Left Foot,,Alyssa Thompson,Pass (Dead),Macey Hodge,Pass (Live),87,7958f078,10ClaireEmslie7958f0787958f078
+28,Alanna Kennedy,Club Crest Angel City,0.04,0.12,Saved,23,Right Foot,,Claire Emslie,Pass (Live),Sarah Gorden,Pass (Live),88,7958f078,14AlannaKennedy7958f0787958f078
+29,Reilyn Turner,Club Crest Thorns,0.33,0.64,Saved,13,Left Foot,,Reilyn Turner,Take-On,Olivia Moultrie,Pass (Live),89,7958f078,66ReilynTurner7958f0787958f078
+30,Reilyn Turner,Club Crest Thorns,0.16,0.37,Goal,6,Right Foot,,Olivia Moultrie,Pass (Dead),Reilyn Turner,Shot,90,7958f078,66ReilynTurner7958f0787958f078
+38,Reilyn Turner,Club Crest Thorns,0.02,0.0,Blocked,24,Right Foot,,Sam Coffey,Pass (Live),Kaitlyn Torpey,Pass (Live),91,7958f078,66ReilynTurner7958f0787958f078
+38,Deyna Castellanos,Club Crest Thorns,0.03,0.0,Off Target,25,Right Foot,,Reilyn Turner,Shot,,,92,7958f078,10DeynaCastellanos7958f0787958f078
+39,Deyna Castellanos,Club Crest Thorns,0.05,0.14,Saved,12,Head,,Reyna Reyes,Pass (Live),Payton Linnehan,Pass (Live),93,7958f078,10DeynaCastellanos7958f0787958f078
+44,Deyna Castellanos,Club Crest Thorns,0.02,0.0,Off Target,50,Right Foot,,Hina Sugita,Pass (Live),Sam Coffey,Pass (Live),94,7958f078,10DeynaCastellanos7958f0787958f078
+45,Kennedy Fuller,Club Crest Angel City,0.06,0.0,Off Target,16,Right Foot,,Alyssa Thompson,Pass (Live),Gisele Thompson,Pass (Live),95,7958f078,17KennedyFuller7958f0787958f078
+47,Alyssa Thompson,Club Crest Angel City,0.12,0.0,Blocked,13,Right Foot,,Alyssa Thompson,Take-On,Alanna Kennedy,Pass (Live),96,7958f078,21AlyssaThompson7958f0787958f078
+50,Alanna Kennedy,Club Crest Angel City,0.02,0.08,Saved,26,Right Foot,,Riley Tiernan,Pass (Live),Mary Vignola,Pass (Live),97,7958f078,14AlannaKennedy7958f0787958f078
+54,Macey Hodge,Club Crest Angel City,0.03,0.0,Off Target,26,Right Foot,,Riley Tiernan,Pass (Live),Kennedy Fuller,Pass (Live),98,7958f078,8MaceyHodge7958f0787958f078
+59,Hina Sugita,Club Crest Thorns,0.03,0.0,Blocked,25,Left Foot,,Reilyn Turner,Pass (Live),Reyna Reyes,Pass (Live),99,7958f078,8HinaSugita7958f0787958f078
+64,Reilyn Turner,Club Crest Thorns,0.14,0.0,Blocked,13,Left Foot,Volley,Olivia Moultrie,Pass (Live),Olivia Moultrie,Take-On,100,7958f078,66ReilynTurner7958f0787958f078
+65,Isabella Obaze,Club Crest Thorns,0.01,0.0,Off Target,26,Right Foot,Volley,Sam Coffey,Pass (Live),Reilyn Turner,Shot,101,7958f078,5IsabellaObaze7958f0787958f078
+65,Olivia Moultrie,Club Crest Thorns,0.05,0.03,Saved,26,Right Foot,,Sam Coffey,Pass (Live),Reyna Reyes,Pass (Live),102,7958f078,13OliviaMoultrie7958f0787958f078
+83,Pietra Tordin,Club Crest Thorns,0.2,0.0,Off Target,9,Right Foot,Volley,Mallie McKenzie,Pass (Live),Hina Sugita,Pass (Live),103,7958f078,19PietraTordin7958f0787958f078
+84,Hina Sugita,Club Crest Thorns,0.03,0.02,Saved,17,Right Foot,Volley,,,,,104,7958f078,8HinaSugita7958f0787958f078
+87,Pietra Tordin,Club Crest Thorns,0.04,0.0,Blocked,16,Right Foot,,Caiya Hanks,Pass (Live),Olivia Moultrie,Pass (Live),105,7958f078,19PietraTordin7958f0787958f078
+87,Pietra Tordin,Club Crest Thorns,0.17,0.0,Off Target,8,Head,,Hina Sugita,Pass (Live),Alexa Spaanstra,Pass (Live),106,7958f078,19PietraTordin7958f0787958f078
+89,Alyssa Thompson,Club Crest Angel City,0.04,0.22,Saved,14,Right Foot,,Christen Press,Pass (Live),Mary Vignola,Pass (Live),107,7958f078,21AlyssaThompson7958f0787958f078
+90,Julie Dufour,Club Crest Angel City,0.04,0.0,Blocked,19,Right Foot,,Madison Hammond,Pass (Live),Alyssa Thompson,Pass (Live),108,7958f078,7JulieDufour7958f0787958f078
+93,Alexa Spaanstra,Club Crest Thorns,0.15,0.3,Saved,12,Right Foot,,Olivia Moultrie,Pass (Live),,,109,7958f078,77AlexaSpaanstra7958f0787958f078
