@@ -1,0 +1,3 @@
+Player,Nation,Age,Min,SoTA,GA,Saves,SavePct,PSxG,Cmp,PassAtt,CmpPct,GKAtt,Thr,LaunchPct,AvgLen,Opp,Stp,StpPct,OPA,AvgDist,JerseyNumber,game_id,player_id,team_name
+Claudia Dickey,us USA,25-102,90,4,0,4,100,0.9,4,7,22.2,44,2,85.7,46.3,16,3,18.8,0,8,1,71e1c7c8,1ClaudiaDickey71e1c7c8,Seattle Reign FC
+Bella Bixby,us USA,29-149,90,5,1,4,80,1.4,0,3,0,29,4,33.3,32.3,8,1,12.5,4,29,1,71e1c7c8,1BellaBixby71e1c7c8,Portland Thorns FC

@@ -1,0 +1,23 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+4,Madeline Dahlien,Club Crest Reign,0.05,0.6,Goal,16,Right Foot,,Lynn Williams,Pass (Live),Nérilia Mondésir,Pass (Live),162,71e1c7c8,5MadelineDahlien71e1c7c871e1c7c8
+8,Olivia Moultrie,Club Crest Thorns,0.14,0.0,Off Target,10,Left Foot,,Payton Linnehan,Pass (Live),Jayden Perry,Pass (Live),163,71e1c7c8,13OliviaMoultrie71e1c7c871e1c7c8
+15,Payton Linnehan,Club Crest Thorns,0.04,0.12,Saved,25,Right Foot,,Jessie Fleming,Pass (Live),Bella Bixby,Pass (Live),164,71e1c7c8,15PaytonLinnehan71e1c7c871e1c7c8
+18,Madeline Dahlien,Club Crest Reign,0.02,0.0,Blocked,24,Right Foot,,Madison Curry,Fouled,Madison Curry,Pass (Live),165,71e1c7c8,5MadelineDahlien71e1c7c871e1c7c8
+31,Lynn Williams,Club Crest Reign,0.12,0.0,Off Target,15,Left Foot,,Jordyn Bugg,Pass (Live),Samantha Meza,Pass (Live),166,71e1c7c8,6LynnWilliams71e1c7c871e1c7c8
+35,Lynn Williams,Club Crest Reign,0.48,0.0,Off Target,16,Right Foot,,Angharad James,Pass (Live),,,167,71e1c7c8,6LynnWilliams71e1c7c871e1c7c8
+47,Madeline Dahlien,Club Crest Reign,0.11,0.63,Saved,12,Right Foot,,Jordyn Huitema,Pass (Live),Phoebe McClernon,Pass (Dead),168,71e1c7c8,5MadelineDahlien71e1c7c871e1c7c8
+62,Sam Coffey,Club Crest Thorns,0.02,0.0,Blocked,25,Right Foot,,Reilyn Turner,Pass (Live),Hina Sugita,Pass (Live),169,71e1c7c8,17SamCoffey71e1c7c871e1c7c8
+64,Payton Linnehan,Club Crest Thorns,0.02,0.0,Off Target,35,Right Foot,,Jessie Fleming,Pass (Live),Olivia Moultrie,Pass (Live),170,71e1c7c8,15PaytonLinnehan71e1c7c871e1c7c8
+66,Reyna Reyes,Club Crest Thorns,0.04,0.0,Blocked,17,Right Foot,,Deyna Castellanos,Pass (Live),Reyna Reyes,Pass (Live),171,71e1c7c8,2ReynaReyes71e1c7c871e1c7c8
+74,Deyna Castellanos,Club Crest Thorns,0.05,0.1,Saved,25,Right Foot,Free kick,Caiya Hanks,Fouled,Deyna Castellanos,Pass (Live),172,71e1c7c8,10DeynaCastellanos71e1c7c871e1c7c8
+75,Madeline Dahlien,Club Crest Reign,0.15,0.12,Saved,11,Left Foot,,Ji So-yun,Pass (Live),Ji So-yun,Take-On,173,71e1c7c8,5MadelineDahlien71e1c7c871e1c7c8
+75,Madeline Dahlien,Club Crest Reign,0.04,0.03,Saved,20,Right Foot,,Lauren Barnes,Pass (Live),Madeline Dahlien,Shot,174,71e1c7c8,5MadelineDahlien71e1c7c871e1c7c8
+82,Marie-Yasmine Alidou,Club Crest Thorns,0.02,0.0,Off Target,23,Right Foot,,Deyna Castellanos,Pass (Live),Reilyn Turner,Pass (Live),175,71e1c7c8,26Marie-YasmineAlidou71e1c7c871e1c7c8
+84,Caiya Hanks,Club Crest Thorns,0.48,0.0,Off Target,8,Right Foot,,Jayden Perry,Pass (Live),,,176,71e1c7c8,7CaiyaHanks71e1c7c871e1c7c8
+86,Ana-Maria Crnogorčević,Club Crest Reign,0.09,0.0,Woodwork,11,Right Foot,,Ji So-yun,Pass (Live),Ana-Maria Crnogorčević,Pass (Live),177,71e1c7c8,7Ana-MariaCrnogorčević71e1c7c871e1c7c8
+89,Reilyn Turner,Club Crest Thorns,0.08,0.0,Off Target,12,Right Foot,Volley,Sam Coffey,Pass (Dead),Pietra Tordin,Pass (Live),178,71e1c7c8,66ReilynTurner71e1c7c871e1c7c8
+90,Emeri Adames,Club Crest Reign,0.03,0.02,Saved,23,Left Foot,,Ji So-yun,Pass (Live),Ji So-yun,Tackle,179,71e1c7c8,47EmeriAdames71e1c7c871e1c7c8
+95,Caiya Hanks,Club Crest Thorns,0.06,0.25,Saved,29,Left Foot,,Sam Coffey,Pass (Live),Marie-Yasmine Alidou,Tackle,180,71e1c7c8,7CaiyaHanks71e1c7c871e1c7c8
+96,Reilyn Turner,Club Crest Thorns,0.14,0.0,Woodwork,12,Left Foot,Volley,Caiya Hanks,Shot,,,181,71e1c7c8,66ReilynTurner71e1c7c871e1c7c8
+96,Pietra Tordin,Club Crest Thorns,0.14,0.61,Saved,8,Head,,Reilyn Turner,Shot,,,182,71e1c7c8,19PietraTordin71e1c7c871e1c7c8
+97,Jessie Fleming,Club Crest Thorns,0.05,0.0,Off Target,21,Right Foot,Volley,Reilyn Turner,Pass (Live),Samantha Hiatt,Pass (Live),183,71e1c7c8,21JessieFleming71e1c7c871e1c7c8
