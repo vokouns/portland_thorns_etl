@@ -1,0 +1,35 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+9,Denise O'Sullivan,Club Crest Courage,0.03,,Off Target,27,Right Foot,,Shinomi Koyama,Pass (Live),Meredith Speck,Pass (Live),110,475a847a,10DeniseO'Sullivan475a847a475a847a
+11,Sam Coffey,Club Crest Thorns,0.09,,Off Target,7,Head,,Olivia Moultrie,Pass (Dead),Reilyn Turner,Pass (Live),111,475a847a,17SamCoffey475a847a475a847a
+12,Jaedyn Shaw,Club Crest Courage,0.04,,Off Target,21,Right Foot,,Denise O'Sullivan,Pass (Live),Denise O'Sullivan,Tackle,112,475a847a,19JaedynShaw475a847a475a847a
+13,Samantha Hiatt,Club Crest Thorns,0.06,,Off Target,10,Head,,Olivia Moultrie,Pass (Dead),Hina Sugita,Pass (Live),113,475a847a,16SamanthaHiatt475a847a475a847a
+15,Talia Staude,Club Crest Courage,0.06,,Off Target,11,Head,,Ryan Williams,Pass (Live),Malia Berkely,Pass (Live),114,475a847a,12TaliaStaude475a847a475a847a
+17,Reilyn Turner,Club Crest Thorns,0.11,,Blocked,12,Left Foot,,Reilyn Turner,Take-On,,,115,475a847a,66ReilynTurner475a847a475a847a
+18,Olivia Moultrie,Club Crest Thorns,0.04,,Off Target,21,Left Foot,,Reilyn Turner,Pass (Live),Olivia Moultrie,Pass (Live),116,475a847a,13OliviaMoultrie475a847a475a847a
+20,Hannah Betfort,Club Crest Courage,0.07,,Woodwork,10,Head,,Ryan Williams,Pass (Live),Kaleigh Kurtz,Pass (Live),117,475a847a,30HannahBetfort475a847a475a847a
+21,Reilyn Turner,Club Crest Thorns,0.06,,Blocked,11,Head,,Olivia Moultrie,Pass (Dead),Reilyn Turner,Pass (Live),118,475a847a,66ReilynTurner475a847a475a847a
+22,Hina Sugita,Club Crest Thorns,0.03,,Blocked,23,Right Foot,,Kaitlyn Torpey,Pass (Live),Reyna Reyes,Pass (Live),119,475a847a,8HinaSugita475a847a475a847a
+25,Jaedyn Shaw,Club Crest Courage,0.62,,Off Target,5,Right Foot,,Shinomi Koyama,Pass (Live),Meredith Speck,Pass (Live),120,475a847a,19JaedynShaw475a847a475a847a
+25,Hannah Betfort,Club Crest Courage,0.22,,Blocked,4,Right Foot,,Jaedyn Shaw,Shot,,,121,475a847a,30HannahBetfort475a847a475a847a
+26,Meredith Speck,Club Crest Courage,0.05,0.06,Saved,20,Right Foot,,Shinomi Koyama,Pass (Live),Meredith Speck,Pass (Live),122,475a847a,25MeredithSpeck475a847a475a847a
+31,Jaedyn Shaw,Club Crest Courage,0.05,0.22,Saved,15,Left Foot,,Jaedyn Shaw,Pass (Live),Talia Staude,Pass (Live),123,475a847a,19JaedynShaw475a847a475a847a
+32,Kaleigh Kurtz,Club Crest Courage,0.13,,Off Target,4,Head,,Jaedyn Shaw,Pass (Dead),Jaedyn Shaw,Shot,124,475a847a,3KaleighKurtz475a847a475a847a
+32,Hina Sugita,Club Crest Thorns,0.05,,Off Target,16,Right Foot,,Hina Sugita,Pass (Live),Reyna Reyes,Pass (Live),125,475a847a,8HinaSugita475a847a475a847a
+45,Deyna Castellanos,Club Crest Thorns,0.03,0.09,Saved,28,Right Foot,Deflected,Sam Coffey,Pass (Live),Reyna Reyes,Pass (Live),126,475a847a,10DeynaCastellanos475a847a475a847a
+46,Reilyn Turner,Club Crest Thorns,0.34,,Off Target,8,Head,,Olivia Moultrie,Pass (Dead),Caiya Hanks,Pass (Live),127,475a847a,66ReilynTurner475a847a475a847a
+49,Jaedyn Shaw,Club Crest Courage,0.1,,Off Target,11,Right Foot,,Ashley Sanchez,Pass (Live),Denise O'Sullivan,Pass (Live),128,475a847a,19JaedynShaw475a847a475a847a
+53,Talia Staude,Club Crest Courage,0.04,,Blocked,23,Left Foot,,Shinomi Koyama,Pass (Live),Ryan Williams,Pass (Live),129,475a847a,12TaliaStaude475a847a475a847a
+53,Shinomi Koyama,Club Crest Courage,0.06,0.14,Saved,12,Left Foot,,Jaedyn Shaw,Pass (Live),Denise O'Sullivan,Pass (Live),130,475a847a,20ShinomiKoyama475a847a475a847a
+56,Hina Sugita,Club Crest Thorns,0.39,,Blocked,8,Right Foot,Volley,Kaitlyn Torpey,Pass (Live),Olivia Moultrie,Pass (Live),131,475a847a,8HinaSugita475a847a475a847a
+56,Hina Sugita,Club Crest Thorns,0.07,,Blocked,13,Right Foot,,Hina Sugita,Shot,,,132,475a847a,8HinaSugita475a847a475a847a
+58,Deyna Castellanos,Club Crest Thorns,0.05,0.16,Saved,21,Right Foot,,Sam Coffey,Pass (Live),Samantha Hiatt,Pass (Live,133,475a847a,10DeynaCastellanos475a847a475a847a
+65,Hina Sugita,Club Crest Thorns,0.03,,Blocked,24,Left Foot,,,,,,134,475a847a,8HinaSugita475a847a475a847a
+67,Denise O'Sullivan,Club Crest Courage,0.07,0.09,Saved,15,Right Foot,,Manaka Matsukubo,Pass (Live),Talia Staude,Pass (Live),135,475a847a,10DeniseO'Sullivan475a847a475a847a
+71,Jaedyn Shaw,Club Crest Courage,0.03,,Off Target,29,Right Foot,,Denise O'Sullivan,Pass (Live),,,136,475a847a,19JaedynShaw475a847a475a847a
+76,Jaedyn Shaw (pen),Club Crest Courage,0.79,0.98,Saved,13,Right Foot,,Ashley Sanchez,Fouled,Denise O'Sullivan,Pass (Live),137,475a847a,nan475a847a
+79,Olivia Moultrie,Club Crest Thorns,0.03,,Blocked,26,Left Foot,,Jessie Fleming,Pass (Live),Pietra Tordin,Pass (Live),138,475a847a,13OliviaMoultrie475a847a475a847a
+85,Pietra Tordin,Club Crest Thorns,0.1,,Off Target,11,Left Foot,,Olivia Moultrie,Pass (Live),Olivia Moultrie,Tackle,139,475a847a,19PietraTordin475a847a475a847a
+88,Pietra Tordin,Club Crest Thorns,0.05,,Off Target,12,Head,,Kaitlyn Torpey,Pass (Live),Hina Sugita,Pass (Live),140,475a847a,19PietraTordin475a847a475a847a
+89,Pietra Tordin,Club Crest Thorns,0.05,,Blocked,15,Left Foot,,Pietra Tordin,Shot,,,141,475a847a,19PietraTordin475a847a475a847a
+91,Hina Sugita,Club Crest Thorns,0.09,,Blocked,12,Left Foot,,Sam Coffey,Pass (Live),Sam Coffey,Take-On,142,475a847a,8HinaSugita475a847a475a847a
+91,Olivia Moultrie,Club Crest Thorns,0.08,,Blocked,9,Left Foot,,Sam Coffey,Pass (Live),Olivia Moultrie,Pass (Live),143,475a847a,13OliviaMoultrie475a847a475a847a
