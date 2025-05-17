@@ -1,0 +1,19 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+12,Deyna Castellanos,Club Crest Thorns,0.06,0.0,Off Target,31,Right Foot,,Reilyn Turner,Pass (Live),,,144,fb58cf7f,10DeynaCastellanosfb58cf7ffb58cf7f
+14,Hina Sugita,Club Crest Thorns,0.24,0.0,Off Target,6,Left Foot,,Deyna Castellanos,Pass (Live),Hina Sugita,Pass (Live),145,fb58cf7f,8HinaSugitafb58cf7ffb58cf7f
+14,Reilyn Turner,Club Crest Thorns,0.94,0.97,Goal,2,Left Foot,,Hina Sugita,Shot,,,146,fb58cf7f,66ReilynTurnerfb58cf7ffb58cf7f
+16,Deyna Castellanos,Club Crest Thorns,0.13,0.0,Off Target,14,Right Foot,,Sam Coffey,Pass (Live),Reilyn Turner,Pass (Live),147,fb58cf7f,10DeynaCastellanosfb58cf7ffb58cf7f
+37,Reilyn Turner,Club Crest Thorns,0.03,0.0,Off Target,11,Head,,Olivia Moultrie,Pass (Dead),Caiya Hanks,Pass (Live),148,fb58cf7f,66ReilynTurnerfb58cf7ffb58cf7f
+42,Reilyn Turner,Club Crest Thorns,0.04,0.0,Off Target,9,Head,,Olivia Moultrie,Pass (Live),Olivia Moultrie,Take-On,149,fb58cf7f,66ReilynTurnerfb58cf7ffb58cf7f
+42,Olivia Moultrie,Club Crest Thorns,0.08,0.21,Saved,12,Left Foot,,Olivia Moultrie,Take-On,Sam Coffey,Pass (Dead),150,fb58cf7f,13OliviaMoultriefb58cf7ffb58cf7f
+42,Reilyn Turner,Club Crest Thorns,0.86,0.0,Off Target,2,Right Foot,,Olivia Moultrie,Shot,,,151,fb58cf7f,66ReilynTurnerfb58cf7ffb58cf7f
+47,KK Ream,Club Crest Royals,0.44,0.0,Off Target,9,Right Foot,Volley,Bianca St-Georges,Pass (Live),Ally Sentnor,Pass (Live),152,fb58cf7f,19KKReamfb58cf7ffb58cf7f
+53,Janni Thomsen,Club Crest Royals,0.1,0.0,Off Target,7,Left Foot,,Claudia Zornoza,Pass (Dead),Janni Thomsen,Fouled,153,fb58cf7f,7JanniThomsenfb58cf7ffb58cf7f
+58,Kate Del Fava,Club Crest Royals,0.01,0.0,Off Target,11,Head,,Ally Sentnor,Pass (Dead),,,154,fb58cf7f,8KateDelFavafb58cf7ffb58cf7f
+61,Bianca St-Georges,Club Crest Royals,0.03,0.0,Off Target,26,Right Foot,,Brecken Mozingo,Pass (Live),,,155,fb58cf7f,53BiancaSt-Georgesfb58cf7ffb58cf7f
+66,Brecken Mozingo,Club Crest Royals,0.12,0.0,Off Target,15,Right Foot,,Bianca St-Georges,Pass (Live),Ally Sentnor,Pass (Live),156,fb58cf7f,13BreckenMozingofb58cf7ffb58cf7f
+68,Ally Sentnor,Club Crest Royals,0.03,0.0,Off Target,24,Right Foot,,Dana Foederer,Pass (Live),Madison Pogarch,Pass (Live),157,fb58cf7f,9AllySentnorfb58cf7ffb58cf7f
+70,Reilyn Turner,Club Crest Thorns,0.27,0.0,Off Target,7,Right Foot,,Marie-Yasmine Alidou,Pass (Live),,,158,fb58cf7f,66ReilynTurnerfb58cf7ffb58cf7f
+74,Marie-Yasmine Alidou,Club Crest Thorns,0.07,0.0,Off Target,30,Left Foot,,Sam Coffey,Pass (Live),Sam Coffey,Take-On,159,fb58cf7f,26Marie-YasmineAlidoufb58cf7ffb58cf7f
+77,Claudia Zornoza,Club Crest Royals,0.03,0.03,Saved,28,Left Foot,,Madison Pogarch,Pass (Live),Ally Sentnor,Pass (Live),160,fb58cf7f,10ClaudiaZornozafb58cf7ffb58cf7f
+89,Ally Sentnor,Club Crest Royals,0.03,0.0,Off Target,28,Left Foot,,Ally Sentnor,Interception,,,161,fb58cf7f,9AllySentnorfb58cf7ffb58cf7f

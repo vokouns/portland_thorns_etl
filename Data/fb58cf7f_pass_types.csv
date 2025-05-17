@@ -1,0 +1,33 @@
+player,JerseyNumber,nation,pos,age,min,att,pass_types_live,pass_types_dead,pass_types_fk,pass_types_tb,pass_types_sw,pass_types_crs,pass_types_ti,pass_types_ck,corner_kicks_in,corner_kicks_out,corner_kicks_str,outcomes_cmp,outcomes_off,outcomes_blocks,game_id,player_id,team_name
+Aisha Solórzano,30,gt GUA,FW,26-363,45,4,2,2,0,0,0,0,0,0,0,0,0,2,0,0,fb58cf7f,30Aisha Solórzanofb58cf7f,Utah Royals
+KK Ream,19,us USA,FW,15-278,45,7,7,0,0,0,0,0,0,0,0,0,0,4,0,1,fb58cf7f,19KK Reamfb58cf7f,Utah Royals
+Bianca St-Georges,53,ca CAN,LW,27-257,69,17,16,1,0,0,0,3,1,0,0,0,0,8,0,0,fb58cf7f,53Bianca St-Georgesfb58cf7f,Utah Royals
+Ana María Guzmán,15,co COL,LW,19-304,21,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,fb58cf7f,15Ana María Guzmánfb58cf7f,Utah Royals
+Brecken Mozingo,13,us USA,RW,24-034,65,9,8,1,0,0,0,0,1,0,0,0,0,7,0,0,fb58cf7f,13Brecken Mozingofb58cf7f,Utah Royals
+Imani Dorsey,28,us USA,RB,29-021,25,18,12,6,0,0,0,1,6,0,0,0,0,15,0,0,fb58cf7f,28Imani Dorseyfb58cf7f,Utah Royals
+Ally Sentnor,9,us USA,AM,21-052,90,34,29,3,1,0,1,4,0,2,2,0,0,18,2,5,fb58cf7f,9Ally Sentnorfb58cf7f,Utah Royals
+Claudia Zornoza,10,es ESP,DM,34-173,90,50,43,6,6,0,0,2,0,0,0,0,0,37,1,2,fb58cf7f,10Claudia Zornozafb58cf7f,Utah Royals
+Mikayla Cluff,21,us USA,DM,26-045,45,16,16,0,0,0,0,0,0,0,0,0,0,11,0,0,fb58cf7f,21Mikayla Clufffb58cf7f,Utah Royals
+Dana Foederer,22,nl NED,DM,22-258,45,19,19,0,0,0,0,0,0,0,0,0,0,15,0,0,fb58cf7f,22Dana Foedererfb58cf7f,Utah Royals
+Madison Pogarch,16,us USA,LB,27-157,90,32,21,11,2,0,0,0,9,0,0,0,0,26,0,2,fb58cf7f,16Madison Pogarchfb58cf7f,Utah Royals
+Ana Tejada,17,es ESP,CB,22-313,90,47,47,0,0,0,1,0,0,0,0,0,0,36,0,1,fb58cf7f,17Ana Tejadafb58cf7f,Utah Royals
+Kate Del Fava,8,us USA,CB,26-262,90,67,67,0,0,0,0,0,0,0,0,0,0,58,0,0,fb58cf7f,8Kate Del Favafb58cf7f,Utah Royals
+Janni Thomsen,7,dk DEN,RB RW,25-054,77,44,33,11,0,0,0,2,11,0,0,0,0,28,0,1,fb58cf7f,7Janni Thomsenfb58cf7f,Utah Royals
+Macey Fraser,6,nz NZL,RW,22-274,13,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,fb58cf7f,6Macey Fraserfb58cf7f,Utah Royals
+Amanda McGlynn,1,us USA,GK,26-159,90,46,30,16,4,0,0,0,0,0,0,0,0,34,0,0,fb58cf7f,1Amanda McGlynnfb58cf7f,Utah Royals
+Deyna Castellanos,10,ve VEN,FW,25-358,83,18,16,2,2,1,0,1,0,0,0,0,0,11,0,2,fb58cf7f,10Deyna Castellanosfb58cf7f,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-012,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,fb58cf7f,19Pietra Tordinfb58cf7f,Portland Thorns FC
+Caiya Hanks,7,us USA,LM,20-197,58,17,17,0,0,0,0,1,0,0,0,0,0,14,0,0,fb58cf7f,7Caiya Hanksfb58cf7f,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,LM,29-348,32,7,7,0,0,0,0,0,0,0,0,0,0,5,0,2,fb58cf7f,26Marie-Yasmine Alidoufb58cf7f,Portland Thorns FC
+Hina Sugita,8,jp JPN,CM,28-070,68,26,26,0,0,1,0,0,0,0,0,0,0,20,0,1,fb58cf7f,8Hina Sugitafb58cf7f,Portland Thorns FC
+Jessie Fleming,21,ca CAN,CM,27-031,22,5,5,0,0,0,0,0,0,0,0,0,0,4,0,0,fb58cf7f,21Jessie Flemingfb58cf7f,Portland Thorns FC
+Olivia Moultrie,13,us USA,CM,19-206,90,30,26,4,1,0,0,3,0,3,1,1,0,20,0,2,fb58cf7f,13Olivia Moultriefb58cf7f,Portland Thorns FC
+Reilyn Turner,66,us USA,RM,22-176,83,23,23,0,0,0,0,1,0,0,0,0,0,15,0,0,fb58cf7f,66Reilyn Turnerfb58cf7f,Portland Thorns FC
+Alexa Spaanstra,77,us USA,RM,25-069,7,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,fb58cf7f,77Alexa Spaanstrafb58cf7f,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-101,90,40,33,6,5,0,0,0,0,0,0,0,0,33,1,0,fb58cf7f,17Sam Coffeyfb58cf7f,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-054,90,53,39,14,5,0,0,1,9,0,0,0,0,37,0,2,fb58cf7f,2Reyna Reyesfb58cf7f,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-050,90,38,35,3,3,0,0,0,0,0,0,0,0,29,0,1,fb58cf7f,24Jayden Perryfb58cf7f,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-095,90,37,35,2,2,0,0,0,0,0,0,0,0,27,0,0,fb58cf7f,16Samantha Hiattfb58cf7f,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-025,68,29,25,4,0,0,0,0,4,0,0,0,0,25,0,1,fb58cf7f,20Kaitlyn Torpeyfb58cf7f,Portland Thorns FC
+Mallie McKenzie,29,us USA,RB,24-149,22,5,4,1,0,0,0,0,1,0,0,0,0,3,0,0,fb58cf7f,29Mallie McKenziefb58cf7f,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-142,90,40,22,18,3,0,0,0,0,0,0,0,0,21,0,0,fb58cf7f,1Bella Bixbyfb58cf7f,Portland Thorns FC

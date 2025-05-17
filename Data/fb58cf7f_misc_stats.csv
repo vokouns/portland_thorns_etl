@@ -1,0 +1,33 @@
+player,JerseyNumber,nation,pos,age,min,performance_crdy,performance_crdr,performance_2crdy,performance_fls,performance_fld,performance_off,performance_crs,performance_int,performance_tklw,performance_pkwon,performance_pkcon,performance_og,performance_recov,arial_duels_won,arial_duels_lost,arial_duels_won_pct,game_id,player_id,team_name
+Aisha Solórzano,30,gt GUA,FW,26-363,45,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.0,fb58cf7f,30Aisha Solórzanofb58cf7f,Utah Royals
+KK Ream,19,us USA,FW,15-278,45,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,0.0,fb58cf7f,19KK Reamfb58cf7f,Utah Royals
+Bianca St-Georges,53,ca CAN,LW,27-257,69,0,0,0,1,1,1,3,0,1,0,0,0,1,1,1,50.0,fb58cf7f,53Bianca St-Georgesfb58cf7f,Utah Royals
+Ana María Guzmán,15,co COL,LW,19-304,21,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0.0,fb58cf7f,15Ana María Guzmánfb58cf7f,Utah Royals
+Brecken Mozingo,13,us USA,RW,24-034,65,0,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0.0,fb58cf7f,13Brecken Mozingofb58cf7f,Utah Royals
+Imani Dorsey,28,us USA,RB,29-021,25,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0.0,fb58cf7f,28Imani Dorseyfb58cf7f,Utah Royals
+Ally Sentnor,9,us USA,AM,21-052,90,0,0,0,1,0,0,4,1,0,0,0,0,4,1,0,100.0,fb58cf7f,9Ally Sentnorfb58cf7f,Utah Royals
+Claudia Zornoza,10,es ESP,DM,34-173,90,0,0,0,1,1,0,2,1,0,0,0,0,8,2,0,100.0,fb58cf7f,10Claudia Zornozafb58cf7f,Utah Royals
+Mikayla Cluff,21,us USA,DM,26-045,45,0,0,0,0,0,0,0,1,1,0,0,0,5,3,0,100.0,fb58cf7f,21Mikayla Clufffb58cf7f,Utah Royals
+Dana Foederer,22,nl NED,DM,22-258,45,1,0,0,1,2,0,0,0,0,0,0,0,0,1,1,50.0,fb58cf7f,22Dana Foedererfb58cf7f,Utah Royals
+Madison Pogarch,16,us USA,LB,27-157,90,0,0,0,1,0,0,0,0,2,0,0,0,1,1,3,25.0,fb58cf7f,16Madison Pogarchfb58cf7f,Utah Royals
+Ana Tejada,17,es ESP,CB,22-313,90,0,0,0,3,1,0,0,0,1,0,0,0,5,3,0,100.0,fb58cf7f,17Ana Tejadafb58cf7f,Utah Royals
+Kate Del Fava,8,us USA,CB,26-262,90,1,0,0,2,1,0,0,2,0,0,0,0,8,1,0,100.0,fb58cf7f,8Kate Del Favafb58cf7f,Utah Royals
+Janni Thomsen,7,dk DEN,RB RW,25-054,77,0,0,0,2,2,0,2,0,2,0,0,0,5,0,1,0.0,fb58cf7f,7Janni Thomsenfb58cf7f,Utah Royals
+Macey Fraser,6,nz NZL,RW,22-274,13,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0.0,fb58cf7f,6Macey Fraserfb58cf7f,Utah Royals
+Amanda McGlynn,1,us USA,GK,26-159,90,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0.0,fb58cf7f,1Amanda McGlynnfb58cf7f,Utah Royals
+Deyna Castellanos,10,ve VEN,FW,25-358,83,0,0,0,0,4,0,1,1,0,0,0,0,2,0,2,0.0,fb58cf7f,10Deyna Castellanosfb58cf7f,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-012,7,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0.0,fb58cf7f,19Pietra Tordinfb58cf7f,Portland Thorns FC
+Caiya Hanks,7,us USA,LM,20-197,58,1,0,0,2,1,0,1,0,1,0,0,0,5,0,0,0.0,fb58cf7f,7Caiya Hanksfb58cf7f,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,LM,29-348,32,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,0.0,fb58cf7f,26Marie-Yasmine Alidoufb58cf7f,Portland Thorns FC
+Hina Sugita,8,jp JPN,CM,28-070,68,0,0,0,0,1,0,0,3,1,0,0,0,3,0,4,0.0,fb58cf7f,8Hina Sugitafb58cf7f,Portland Thorns FC
+Jessie Fleming,21,ca CAN,CM,27-031,22,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,100.0,fb58cf7f,21Jessie Flemingfb58cf7f,Portland Thorns FC
+Olivia Moultrie,13,us USA,CM,19-206,90,0,0,0,1,1,1,3,1,2,0,0,0,4,1,1,50.0,fb58cf7f,13Olivia Moultriefb58cf7f,Portland Thorns FC
+Reilyn Turner,66,us USA,RM,22-176,83,0,0,0,0,2,0,1,1,0,0,0,0,2,4,1,80.0,fb58cf7f,66Reilyn Turnerfb58cf7f,Portland Thorns FC
+Alexa Spaanstra,77,us USA,RM,25-069,7,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.0,fb58cf7f,77Alexa Spaanstrafb58cf7f,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-101,90,0,0,0,0,1,0,0,2,1,0,0,0,8,1,2,33.3,fb58cf7f,17Sam Coffeyfb58cf7f,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-054,90,0,0,0,0,2,0,1,2,2,0,0,0,3,1,0,100.0,fb58cf7f,2Reyna Reyesfb58cf7f,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-050,90,0,0,0,4,2,0,0,0,0,0,0,0,4,0,0,0.0,fb58cf7f,24Jayden Perryfb58cf7f,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-095,90,0,0,0,0,1,0,0,0,1,0,0,0,2,1,2,33.3,fb58cf7f,16Samantha Hiattfb58cf7f,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-025,68,0,0,0,2,0,0,0,1,2,0,0,0,4,0,1,0.0,fb58cf7f,20Kaitlyn Torpeyfb58cf7f,Portland Thorns FC
+Mallie McKenzie,29,us USA,RB,24-149,22,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0.0,fb58cf7f,29Mallie McKenziefb58cf7f,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-142,90,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,fb58cf7f,1Bella Bixbyfb58cf7f,Portland Thorns FC

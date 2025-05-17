@@ -1,4 +1,4 @@
-player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,Cmp%,PrgP,Carries,PrgC,Succ,game_id,player_id,team_nane
+Player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,CmpPct,PrgP,Carries,PrgC,Succ,game_id,player_id,team_name
 Caiya Hanks,7,us USA,FW,20-184,74,0,0,0,0,0,0,0,0,22,2,0,1,0,0,0,1,0,8,1,57.1,0,13,1,0,475a847a,7CaiyaHanks475a847a,Portland Thorns FC
 Alexa Spaanstra,77,us USA,FW,25-056,16,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,1,1,33.3,0,2,0,0,475a847a,77AlexaSpaanstra475a847a,Portland Thorns FC
 Reilyn Turner,66,us USA,FW,22-163,74,0,0,0,0,3,0,0,0,27,0,0,1,0.5,0.5,0,4,0,12,2,63.2,1,13,1,1,475a847a,66ReilynTurner475a847a,Portland Thorns FC
