@@ -1,0 +1,30 @@
+player,JerseyNumber,Nation,Pos,Age,Min,total_Cmp,total_Att,total_Cmp_pct,total_TotDist,total_PrgDist,short_Cmp,short_Att,short_Cmp_pct,medium_Cmp,medium_Att,medium_Cmp_pct,long_Cmp,long_Att,long_Cmp_pct,Ast,xAG,xA,KP,final_third,PPA,CrsPA,PrgP,game_id,player_id,team_name
+Deyna Castellanos,10,ve VEN,FW,26-009,73,3,10,30.0,64,40,1,1,100.0,1,3,33.3,1,4,25.0,0,0.0,0.0,0,1,0,0,0,1c087799,10Deyna Castellanos1c087799,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-028,17,0,1,0.0,0,0,0,0,0.0,0,1,0.0,0,0,0.0,0,0.0,0.0,0,0,0,0,0,1c087799,19Pietra Tordin1c087799,Portland Thorns FC
+Caiya Hanks,7,us USA,LW,20-213,90,8,12,66.7,138,72,4,4,100.0,2,3,66.7,1,2,50.0,0,0.3,0.6,3,1,2,1,2,1c087799,7Caiya Hanks1c087799,Portland Thorns FC
+Reilyn Turner,66,us USA,RW,22-192,66,5,8,62.5,72,27,3,4,75.0,2,3,66.7,0,0,0.0,0,0.0,0.0,0,1,0,0,1,1c087799,66Reilyn Turner1c087799,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-033,24,15,19,78.9,212,81,9,10,90.0,6,8,75.0,0,0,0.0,0,0.1,0.1,1,0,1,1,0,1c087799,15Payton Linnehan1c087799,Portland Thorns FC
+Jessie Fleming,21,ca CAN,LM,27-047,73,21,24,87.5,358,147,9,9,100.0,10,11,90.9,2,3,66.7,0,0.1,0.0,1,1,0,0,2,1c087799,21Jessie Fleming1c087799,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,LM,29-364,17,7,8,87.5,139,37,2,2,100.0,4,4,100.0,1,1,100.0,0,0.0,0.0,0,1,0,0,1,1c087799,26Marie-Yasmine Alidou1c087799,Portland Thorns FC
+Hina Sugita,8,jp JPN,CM,28-086,90,31,35,88.6,502,175,12,13,92.3,15,16,93.8,1,1,100.0,0,0.0,0.0,0,1,0,0,3,1c087799,8Hina Sugita1c087799,Portland Thorns FC
+Olivia Moultrie,13,us USA,RM,19-222,90,22,34,64.7,352,86,13,15,86.7,6,9,66.7,2,6,33.3,0,0.0,0.0,1,0,3,1,3,1c087799,13Olivia Moultrie1c087799,Portland Thorns FC
+Mallie McKenzie,29,us USA,LB,24-165,66,21,30,70.0,311,192,14,18,77.8,5,8,62.5,2,3,66.7,0,0.0,0.0,0,0,0,0,1,1c087799,29Mallie McKenzie1c087799,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-070,24,8,10,80.0,129,54,4,4,100.0,4,4,100.0,0,0,0.0,0,0.0,0.0,0,0,0,0,0,1c087799,2Reyna Reyes1c087799,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-066,90,42,56,75.0,955,396,6,7,85.7,27,29,93.1,8,17,47.1,1,0.0,0.1,1,4,1,0,5,1c087799,24Jayden Perry1c087799,Portland Thorns FC
+Isabella Obaze,5,dk DEN,CB,22-179,90,28,39,71.8,541,239,6,10,60.0,19,21,90.5,2,6,33.3,0,0.0,0.0,0,1,0,0,1,1c087799,5Isabella Obaze1c087799,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-041,82,28,35,80.0,473,255,11,15,73.3,14,15,93.3,2,3,66.7,0,0.0,0.0,0,3,0,0,2,1c087799,20Kaitlyn Torpey1c087799,Portland Thorns FC
+Alexa Spaanstra,77,us USA,RB,25-085,8,5,5,100.0,95,38,3,3,100.0,1,1,100.0,1,1,100.0,0,0.0,0.0,0,1,2,0,2,1c087799,77Alexa Spaanstra1c087799,Portland Thorns FC
+Mackenzie Arnold,18,au AUS,GK,31-061,90,39,45,86.7,860,440,8,8,100.0,25,25,100.0,6,11,54.5,0,0.0,0.0,0,0,0,0,0,1c087799,18Mackenzie Arnold1c087799,Portland Thorns FC
+Kayla Fischer,9,us USA,FW,25-112,67,10,14,71.4,195,53,4,4,100.0,4,7,57.1,2,2,100.0,1,0.9,0.2,3,2,0,0,2,1c087799,9Kayla Fischer1c087799,Racing Louisville
+Sarah Weber,42,us USA,FW,22-072,23,3,3,100.0,50,1,2,2,100.0,1,1,100.0,0,0,0.0,0,0.0,0.0,0,1,0,0,0,1c087799,42Sarah Weber1c087799,Racing Louisville
+Janine Beckie,16,ca CAN,LW,30-250,90,22,34,64.7,562,213,8,9,88.9,4,9,44.4,10,15,66.7,1,0.3,0.5,3,1,4,4,1,1c087799,16Janine Beckie1c087799,Racing Louisville
+Emma Sears,13,us USA,RW,24-063,90,12,19,63.2,213,46,6,10,60.0,4,6,66.7,1,1,100.0,0,0.1,0.0,2,1,1,1,2,1c087799,13Emma Sears1c087799,Racing Louisville
+Savannah Demelo,7,us USA,AM,27-032,74,11,17,64.7,172,69,5,7,71.4,5,5,100.0,0,0,0.0,0,0.0,0.0,1,2,1,1,2,1c087799,7Savannah Demelo1c087799,Racing Louisville
+Katie O’Kane,20,,AM,,16,3,5,60.0,52,2,1,2,50.0,2,2,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,1c087799,20Katie O’Kane1c087799,Racing Louisville
+Ary Borges,8,br BRA,DM,25-120,90,24,33,72.7,353,113,18,22,81.8,5,8,62.5,1,2,50.0,0,0.0,0.1,2,3,0,0,3,1c087799,8Ary Borges1c087799,Racing Louisville
+Taylor Flint,26,us USA,DM,26-156,90,19,26,73.1,310,151,11,16,68.8,7,7,100.0,1,3,33.3,0,0.1,0.0,1,3,0,0,5,1c087799,26Taylor Flint1c087799,Racing Louisville
+Courtney Petersen,11,us USA,LB,27-181,90,24,34,70.6,410,193,12,13,92.3,10,13,76.9,2,7,28.6,0,0.0,0.1,0,2,1,1,3,1c087799,11Courtney Petersen1c087799,Racing Louisville
+Arin Wright,3,us USA,CB,32-123,90,13,14,92.9,247,64,4,4,100.0,8,8,100.0,1,2,50.0,0,0.0,0.0,0,0,0,0,1,1c087799,3Arin Wright1c087799,Racing Louisville
+Ellie Jean,5,us USA,CB,28-086,90,17,25,68.0,400,161,2,5,40.0,12,13,92.3,3,7,42.9,0,0.0,0.0,0,1,0,0,1,1c087799,5Ellie Jean1c087799,Racing Louisville
+Lauren Milliet,2,us USA,RB,28-147,90,26,36,72.2,427,226,14,16,87.5,11,17,64.7,1,3,33.3,0,0.3,0.7,1,6,1,1,7,1c087799,2Lauren Milliet1c087799,Racing Louisville
+Katie Lund,1,us USA,GK,28-151,90,21,34,61.8,800,688,1,1,100.0,5,6,83.3,15,27,55.6,0,0.0,0.0,0,3,0,0,0,1c087799,1Katie Lund1c087799,Racing Louisville

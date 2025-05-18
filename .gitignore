@@ -1,5 +1,6 @@
 # Project specific ignores
 bulk_import.sql
+portland_thorns_etl_workflow.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,0 +1,30 @@
+player,JerseyNumber,nation,pos,age,min,att,pass_types_live,pass_types_dead,pass_types_fk,pass_types_tb,pass_types_sw,pass_types_crs,pass_types_ti,pass_types_ck,corner_kicks_in,corner_kicks_out,corner_kicks_str,outcomes_cmp,outcomes_off,outcomes_blocks,game_id,player_id,team_name
+Deyna Castellanos,10,ve VEN,FW,26-009,73,10,7,2,1,0,0,2,0,0,0,0,0,3,1,0,1c087799,10Deyna Castellanos1c087799,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-028,17,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1c087799,19Pietra Tordin1c087799,Portland Thorns FC
+Caiya Hanks,7,us USA,LW,20-213,90,12,12,0,0,0,0,3,0,0,0,0,0,8,0,1,1c087799,7Caiya Hanks1c087799,Portland Thorns FC
+Reilyn Turner,66,us USA,RW,22-192,66,8,8,0,0,0,0,0,0,0,0,0,0,5,0,0,1c087799,66Reilyn Turner1c087799,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-033,24,19,15,4,0,0,0,3,4,0,0,0,0,15,0,1,1c087799,15Payton Linnehan1c087799,Portland Thorns FC
+Jessie Fleming,21,ca CAN,LM,27-047,73,24,23,1,1,0,0,1,0,0,0,0,0,21,0,1,1c087799,21Jessie Fleming1c087799,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,LM,29-364,17,8,8,0,0,0,0,0,0,0,0,0,0,7,0,0,1c087799,26Marie-Yasmine Alidou1c087799,Portland Thorns FC
+Hina Sugita,8,jp JPN,CM,28-086,90,35,30,5,2,0,0,0,0,0,0,0,0,31,0,0,1c087799,8Hina Sugita1c087799,Portland Thorns FC
+Olivia Moultrie,13,us USA,RM,19-222,90,34,28,6,3,0,0,4,1,2,1,1,0,22,0,1,1c087799,13Olivia Moultrie1c087799,Portland Thorns FC
+Mallie McKenzie,29,us USA,LB,24-165,66,30,15,15,0,0,0,0,15,0,0,0,0,21,0,1,1c087799,29Mallie McKenzie1c087799,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-070,24,10,8,2,0,0,0,0,2,0,0,0,0,8,0,2,1c087799,2Reyna Reyes1c087799,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-066,90,56,46,9,8,0,0,0,1,0,0,0,0,42,1,1,1c087799,24Jayden Perry1c087799,Portland Thorns FC
+Isabella Obaze,5,dk DEN,CB,22-179,90,39,34,5,1,0,0,0,4,0,0,0,0,28,0,1,1c087799,5Isabella Obaze1c087799,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-041,82,35,24,11,2,0,0,0,9,0,0,0,0,28,0,0,1c087799,20Kaitlyn Torpey1c087799,Portland Thorns FC
+Alexa Spaanstra,77,us USA,RB,25-085,8,5,5,0,0,0,0,0,0,0,0,0,0,5,0,0,1c087799,77Alexa Spaanstra1c087799,Portland Thorns FC
+Mackenzie Arnold,18,au AUS,GK,31-061,90,45,31,14,2,0,0,0,0,0,0,0,0,39,0,1,1c087799,18Mackenzie Arnold1c087799,Portland Thorns FC
+Kayla Fischer,9,us USA,FW,25-112,67,14,12,2,0,0,0,0,0,0,0,0,0,10,0,0,1c087799,9Kayla Fischer1c087799,Racing Louisville
+Sarah Weber,42,us USA,FW,22-072,23,3,2,1,0,0,0,0,0,0,0,0,0,3,0,0,1c087799,42Sarah Weber1c087799,Racing Louisville
+Janine Beckie,16,ca CAN,LW,30-250,90,34,25,8,6,0,1,10,0,2,2,0,0,22,1,0,1c087799,16Janine Beckie1c087799,Racing Louisville
+Emma Sears,13,us USA,RW,24-063,90,19,17,2,0,0,0,3,2,0,0,0,0,12,0,1,1c087799,13Emma Sears1c087799,Racing Louisville
+Savannah Demelo,7,us USA,AM,27-032,74,17,15,1,0,0,0,1,0,0,0,0,0,11,1,0,1c087799,7Savannah Demelo1c087799,Racing Louisville
+Katie O’Kane,20,,AM,,16,5,5,0,0,0,0,0,0,0,0,0,0,3,0,0,1c087799,20Katie O’Kane1c087799,Racing Louisville
+Ary Borges,8,br BRA,DM,25-120,90,33,33,0,0,0,0,0,0,0,0,0,0,24,0,0,1c087799,8Ary Borges1c087799,Racing Louisville
+Taylor Flint,26,us USA,DM,26-156,90,26,26,0,0,0,0,0,0,0,0,0,0,19,0,1,1c087799,26Taylor Flint1c087799,Racing Louisville
+Courtney Petersen,11,us USA,LB,27-181,90,34,20,14,4,0,0,6,9,1,0,0,0,24,0,0,1c087799,11Courtney Petersen1c087799,Racing Louisville
+Arin Wright,3,us USA,CB,32-123,90,14,14,0,0,0,0,0,0,0,0,0,0,13,0,0,1c087799,3Arin Wright1c087799,Racing Louisville
+Ellie Jean,5,us USA,CB,28-086,90,25,21,4,3,0,0,0,1,0,0,0,0,17,0,1,1c087799,5Ellie Jean1c087799,Racing Louisville
+Lauren Milliet,2,us USA,RB,28-147,90,36,25,11,1,0,0,3,10,0,0,0,0,26,0,0,1c087799,2Lauren Milliet1c087799,Racing Louisville
+Katie Lund,1,us USA,GK,28-151,90,34,19,15,8,0,0,0,0,0,0,0,0,21,0,0,1c087799,1Katie Lund1c087799,Racing Louisville

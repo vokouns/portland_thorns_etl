@@ -1,0 +1,33 @@
+player,JerseyNumber,nation,Pos,age,min,performance_crdy,performance_crdr,performance_2crdy,performance_fls,performance_fld,performance_off,performance_crs,performance_int,performance_tklw,performance_pkwon,performance_pkcon,performance_og,performance_recov,arial_duels_won,arial_duels_lost,arial_duels_won_pct,game_id,player_id,team_name
+Messiah Bright,6,us USA,FW,25-124,60,0,0,0,0,0,0,2,0,0,0,0,0,3,1,1,50.0,d2545219,6Messiah Brightd2545219,Houston Dash
+Michelle Alozie,22,ng NGA,FW,28-018,30,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,0.0,d2545219,22Michelle Alozied2545219,Houston Dash
+Bárbara Olivieri,10,ve VEN,LW,23-081,90,0,0,0,2,2,0,3,2,0,0,0,0,4,0,2,0.0,d2545219,10Bárbara Olivierid2545219,Houston Dash
+Maggie Graham,23,us USA,RW,22-310,60,0,0,0,0,1,0,2,0,1,0,0,0,3,0,1,0.0,d2545219,23Maggie Grahamd2545219,Houston Dash
+Evelina Duljan,7,se SWE,RW,22-004,30,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0.0,d2545219,7Evelina Duljand2545219,Houston Dash
+Ryan Gareis,21,us USA,LM,26-184,71,0,0,0,1,0,1,4,0,0,0,0,0,1,0,0,0.0,d2545219,21Ryan Gareisd2545219,Houston Dash
+Kiki Van Zanten,12,jm JAM,RM,23-264,19,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,0.0,d2545219,12Kiki Van Zantend2545219,Houston Dash
+Danielle Colaprico,24,us USA,CM,32-010,71,0,0,0,1,2,0,0,0,2,0,0,0,5,1,1,50.0,d2545219,24Danielle Colapricod2545219,Houston Dash
+Sarah Puntigam,17,at AUT,CM,32-215,19,0,0,0,0,0,0,0,0,1,0,0,0,2,1,1,50.0,d2545219,17Sarah Puntigamd2545219,Houston Dash
+Delanie Sheehan,8,us USA,CM,26-123,90,0,0,0,1,1,0,0,0,0,0,0,0,5,0,0,0.0,d2545219,8Delanie Sheehand2545219,Houston Dash
+Avery Patterson,15,us USA,RM LM,22-336,90,0,0,0,1,0,0,2,1,2,0,0,0,2,0,0,0.0,d2545219,15Avery Pattersond2545219,Houston Dash
+Natalie Jacobs,4,us USA,CB,27-273,90,0,0,0,1,3,0,0,3,3,0,0,0,4,0,0,0.0,d2545219,4Natalie Jacobsd2545219,Houston Dash
+Katie Lind,25,us USA,CB,31-090,90,0,0,0,1,0,0,0,1,4,0,0,0,7,5,3,62.5,d2545219,25Katie Lindd2545219,Houston Dash
+Christen Westphal,20,us USA,CB,31-256,60,0,0,0,1,0,0,1,0,2,0,1,0,2,0,0,0.0,d2545219,20Christen Westphald2545219,Houston Dash
+Paige Nielsen,14,us USA,CB,31-214,30,0,0,0,0,0,0,1,0,0,0,0,0,2,1,1,50.0,d2545219,14Paige Nielsend2545219,Houston Dash
+Abby Smith,35,us USA,GK,31-224,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,d2545219,35Abby Smithd2545219,Houston Dash
+Pietra Tordin,19,us USA,FW,21-047,75,1,0,0,2,2,0,0,0,0,0,0,0,2,1,3,25.0,d2545219,19Pietra Tordind2545219,Portland Thorns FC
+Deyna Castellanos,10,ve VEN,FW,26-028,15,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,100.0,d2545219,10Deyna Castellanosd2545219,Portland Thorns FC
+Caiya Hanks,7,us USA,LW,20-232,62,0,0,0,0,0,1,2,0,1,0,0,0,5,1,0,100.0,d2545219,7Caiya Hanksd2545219,Portland Thorns FC
+Alexa Spaanstra,77,us USA,LW,25-104,28,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0.0,d2545219,77Alexa Spaanstrad2545219,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-052,45,0,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0.0,d2545219,15Payton Linnehand2545219,Portland Thorns FC
+Jessie Fleming,21,ca CAN,AM RW,27-066,45,0,0,0,0,0,0,0,1,3,0,0,0,3,0,1,0.0,d2545219,21Jessie Flemingd2545219,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,AM RW,30-018,90,0,0,0,1,4,0,0,0,1,0,0,0,5,2,0,100.0,d2545219,26Marie-Yasmine Alidoud2545219,Portland Thorns FC
+Hina Sugita,8,jp JPN,DM,28-105,62,0,0,0,1,0,0,2,3,1,0,0,0,7,2,1,66.7,d2545219,8Hina Sugitad2545219,Portland Thorns FC
+Olivia Moultrie,13,us USA,DM,19-241,28,0,0,0,0,0,0,1,0,0,0,0,0,2,1,1,50.0,d2545219,13Olivia Moultried2545219,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-136,62,0,0,0,2,0,0,1,0,0,0,0,0,4,0,0,0.0,d2545219,17Sam Coffeyd2545219,Portland Thorns FC
+Sophie Hirst,14,us USA,DM,25-080,28,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,d2545219,14Sophie Hirstd2545219,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-089,90,0,0,0,0,3,0,1,1,6,1,0,0,3,1,0,100.0,d2545219,2Reyna Reyesd2545219,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-130,90,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0.0,d2545219,16Samantha Hiattd2545219,Portland Thorns FC
+Mallie McKenzie,29,us USA,CB,24-184,90,0,0,0,0,1,0,0,2,1,0,0,0,2,1,1,50.0,d2545219,29Mallie McKenzied2545219,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-060,90,0,0,0,1,1,0,1,0,1,0,0,0,2,0,0,0.0,d2545219,20Kaitlyn Torpeyd2545219,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-177,90,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,d2545219,1Bella Bixbyd2545219,Portland Thorns FC

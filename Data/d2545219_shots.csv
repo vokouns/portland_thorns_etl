@@ -1,0 +1,23 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+1,Caiya Hanks,Club Crest Thorns,0.04,0.03,Saved,14,Right Foot,,Pietra Tordin,Pass (Live),Caiya Hanks,Pass (Live),200,d2545219,7Caiya Hanksd2545219d2545219
+2,Payton Linnehan,Club Crest Thorns,0.05,0,Blocked,14,Right Foot,,Sam Coffey,Pass (Live),Marie-Yasmine Alidou,Pass (Live),201,d2545219,15Payton Linnehand2545219d2545219
+7,Pietra Tordin,Club Crest Thorns,0.03,0,Off Target,9,Head,,Payton Linnehan,Pass (Live),Mallie McKenzie,Pass (Live),202,d2545219,19Pietra Tordind2545219d2545219
+11,Marie-Yasmine Alidou,Club Crest Thorns,0.04,0.12,Saved,17,Left Foot,,Payton Linnehan,Pass (Live),Caiya Hanks,Pass (Live),203,d2545219,26Marie-Yasmine Alidoud2545219d2545219
+16,Marie-Yasmine Alidou,Club Crest Thorns,0.07,0.07,Saved,19,Left Foot,,Hina Sugita,Pass (Live),Mallie McKenzie,Interception,204,d2545219,26Marie-Yasmine Alidoud2545219d2545219
+18,Hina Sugita,Club Crest Thorns,0.2,0,Blocked,6,Head,,Caiya Hanks,Pass (Live),Reyna Reyes,Pass (Live),205,d2545219,8Hina Sugitad2545219d2545219
+23,Payton Linnehan,Club Crest Thorns,0.03,0,Blocked,14,Right Foot,,Pietra Tordin,Pass (Live),Marie-Yasmine Alidou,Pass (Live),206,d2545219,15Payton Linnehand2545219d2545219
+25,Caiya Hanks,Club Crest Thorns,0.02,0,Off Target,24,Right Foot,,Payton Linnehan,Pass (Live),Sam Coffey,Pass (Dead),207,d2545219,7Caiya Hanksd2545219d2545219
+26,Pietra Tordin,Club Crest Thorns,0.06,0.25,Goal,17,Left Foot,,Marie-Yasmine Alidou,Pass (Live),Sam Coffey,Pass (Live),208,d2545219,19Pietra Tordind2545219d2545219
+30,Payton Linnehan,Club Crest Thorns,0.06,0.63,Goal,16,Left Foot,,Sam Coffey,Pass (Live),Hina Sugita,Pass (Live),209,d2545219,15Payton Linnehand2545219d2545219
+39,Sam Coffey,Club Crest Thorns,0.05,0,Off Target,19,Right Foot,,Kaitlyn Torpey,Pass (Live),Caiya Hanks,Pass (Live),210,d2545219,17Sam Coffeyd2545219d2545219
+41,Bárbara Olivieri,Club Crest Dash,0.04,0,Blocked,25,Right Foot,,Bárbara Olivieri,Pass (Live),Ryan Gareis,Pass (Live),211,d2545219,10Bárbara Olivierid2545219d2545219
+45,Delanie Sheehan,Club Crest Dash,0.03,0.03,Saved,25,Left Foot,,Christen Westphal,Pass (Live),Delanie Sheehan,Pass (Live),212,d2545219,8Delanie Sheehand2545219d2545219
+45,Pietra Tordin,Club Crest Thorns,0.01,0,Off Target,35,Right Foot,,,,,,213,d2545219,19Pietra Tordind2545219d2545219
+53,Sam Coffey (pen),Club Crest Thorns,0.73,0.88,Goal,13,Right Foot,,Reyna Reyes,Fouled,Hina Sugita,Pass (Live),214,d2545219,17Sam Coffeyd2545219d2545219
+50,Danielle Colaprico,Club Crest Dash,0.13,0,Off Target,8,Left Foot,,,,,,215,d2545219,24Danielle Colapricod2545219d2545219
+54,Caiya Hanks,Club Crest Thorns,0.07,0.69,Goal,12,Right Foot,,Caiya Hanks,Take-On,Reyna Reyes,Tackle,216,d2545219,7Caiya Hanksd2545219d2545219
+60,Messiah Bright,Club Crest Dash,0.66,0.81,Saved,4,Right Foot,Volley,Bárbara Olivieri,Pass (Dead),Messiah Bright,Pass (Live),217,d2545219,6Messiah Brightd2545219d2545219
+60,Katie Lind,Club Crest Dash,0.01,0,Blocked,14,Head,,Messiah Bright,Shot,,,218,d2545219,25Katie Lindd2545219d2545219
+62,Katie Lind,Club Crest Dash,0.15,0,Off Target,6,Head,,Bárbara Olivieri,Pass (Dead),Katie Lind,Shot,219,d2545219,25Katie Lindd2545219d2545219
+80,Bárbara Olivieri,Club Crest Dash,0.05,0,Blocked,15,Right Foot,,Bárbara Olivieri,Take-On,Paige Nielsen,Pass (Live),220,d2545219,10Bárbara Olivierid2545219d2545219
+82,Kiki Van Zanten,Club Crest Dash,0.17,0,Off Target,14,Right Foot,,Avery Patterson,Pass (Live),Sarah Puntigam,Pass (Live),221,d2545219,12Kiki Van Zantend2545219d2545219

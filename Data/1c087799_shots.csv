@@ -1,0 +1,31 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+4,Kayla Fischer,Club Crest Louisville,0.06,0,Off Target,16,Right Foot,,,,,,222,1c087799,9KaylaFischer1c0877991c087799
+9,Savannah Demelo,Club Crest Louisville,0.41,0.64,Goal,8,Left Foot,,Kayla Fischer,Pass (Live),Courtney Petersen,Pass (Dead),223,1c087799,7SavannahDemelo1c0877991c087799
+16,Caiya Hanks,Club Crest Thorns,0.09,0,Off Target,10,Right Foot,,Olivia Moultrie,Fouled,Caiya Hanks,Pass (Live),224,1c087799,7CaiyaHanks1c0877991c087799
+17,Reilyn Turner,Club Crest Thorns,0.04,0.24,Goal,13,Head,,Jayden Perry,Pass (Live),Jessie Fleming,Pass (Live),225,1c087799,66ReilynTurner1c0877991c087799
+25,Olivia Moultrie,Club Crest Thorns,0.07,0,Off Target,17,Right Foot,Volley,Jessie Fleming,Pass (Live),Olivia Moultrie,Pass (Live),226,1c087799,13OliviaMoultrie1c0877991c087799
+31,Courtney Petersen,Club Crest Louisville,0.09,0,Off Target,17,Right Foot,,Kayla Fischer,Fouled,Lauren Milliet,Pass (Live),227,1c087799,11CourtneyPetersen1c0877991c087799
+32,Savannah Demelo,Club Crest Louisville,0.5,0,Blocked,9,Left Foot,,,,,,228,1c087799,7SavannahDemelo1c0877991c087799
+32,Kayla Fischer,Club Crest Louisville,0.97,0.99,Goal,1,Right Foot,,Savannah Demelo,Shot,,,229,1c087799,9KaylaFischer1c0877991c087799
+35,Savannah Demelo,Club Crest Louisville,0.04,0,Blocked,21,Right Foot,,Janine Beckie,Pass (Live),Savannah Demelo,Pass (Live),230,1c087799,7SavannahDemelo1c0877991c087799
+35,Kayla Fischer,Club Crest Louisville,0.34,0.83,Saved,5,Head,,Lauren Milliet,Pass (Live),Janine Beckie,Pass (Live),231,1c087799,9KaylaFischer1c0877991c087799
+39,Emma Sears,Club Crest Louisville,0.19,0.86,Goal,8,Head,,Janine Beckie,Pass (Live),Janine Beckie,Pass (Live),232,1c087799,13EmmaSears1c0877991c087799
+44,Jessie Fleming,Club Crest Thorns,0.02,0,Off Target,32,Right Foot,,Olivia Moultrie,Pass (Live),Olivia Moultrie,Take-On,233,1c087799,21JessieFleming1c0877991c087799
+45,Kayla Fischer,Club Crest Louisville,0.03,0,Off Target,14,Head,,Savannah Demelo,Pass (Live),Kayla Fischer,Pass (Live),234,1c087799,9KaylaFischer1c0877991c087799
+50,Jessie Fleming (pen),Club Crest Thorns,0.73,0.95,Goal,13,Right Foot,,Olivia Moultrie,Fouled,,,235,1c087799,21JessieFleming1c0877991c087799
+52,Savannah Demelo,Club Crest Louisville,0.06,0,Off Target,26,Right Foot,,Kayla Fischer,Fouled,Taylor Flint,Pass (Live),236,1c087799,7SavannahDemelo1c0877991c087799
+46,Taylor Flint,Club Crest Louisville,0.04,0,Off Target,11,Head,,Janine Beckie,Pass (Dead),Savannah Demelo,Fouled,237,1c087799,26TaylorFlint1c0877991c087799
+54,Taylor Flint,Club Crest Louisville,0.02,0,Off Target,31,Right Foot,,Taylor Flint,Take-On,Ary Borges,Pass (Live),238,1c087799,26TaylorFlint1c0877991c087799
+56,Reilyn Turner,Club Crest Thorns,0.03,0,Blocked,14,Right Foot,Volley,Caiya Hanks,Pass (Live),Caiya Hanks,Take-On,239,1c087799,66ReilynTurner1c0877991c087799
+56,Jayden Perry,Club Crest Thorns,0.14,0,Blocked,10,Left Foot,,Reilyn Turner,Shot,,,240,1c087799,24JaydenPerry1c0877991c087799
+56,Deyna Castellanos,Club Crest Thorns,0.07,0,Off Target,22,Right Foot,,Jessie Fleming,Pass (Live),Mallie McKenzie,Pass (Live),241,1c087799,10DeynaCastellanos1c0877991c087799
+60,Janine Beckie,Club Crest Louisville,0.04,0.06,Saved,17,Right Foot,Deflected Volley,Emma Sears,Pass (Live),Kayla Fischer,Pass (Live),242,1c087799,16JanineBeckie1c0877991c087799
+65,Courtney Petersen,Club Crest Louisville,0.02,0,Off Target,23,Left Foot,,Kayla Fischer,Pass (Live),Courtney Petersen,Pass (Live),243,1c087799,11CourtneyPetersen1c0877991c087799
+66,Jessie Fleming,Club Crest Thorns,0.09,0,Blocked,19,Right Foot,,Caiya Hanks,Pass (Live),Mallie McKenzie,Pass (Live),244,1c087799,21JessieFleming1c0877991c087799
+66,Emma Sears,Club Crest Louisville,0.02,0,Blocked,24,Right Foot,,Ary Borges,Pass (Live),Savannah Demelo,Pass (Live),245,1c087799,13EmmaSears1c0877991c087799
+66,Emma Sears,Club Crest Louisville,0.14,0.36,Saved,5,Left Foot,,Ary Borges,Pass (Live),,,246,1c087799,13EmmaSears1c0877991c087799
+66,Emma Sears,Club Crest Louisville,0.38,0,Blocked,5,Head,,Emma Sears,Shot,,,247,1c087799,13EmmaSears1c0877991c087799
+71,Taylor Flint,Club Crest Louisville,0.09,0,Off Target,11,Head,,Janine Beckie,Pass (Live),Ary Borges,Pass (Live),248,1c087799,26TaylorFlint1c0877991c087799
+81,Marie-Yasmine Alidou,Club Crest Thorns,0.2,0,Off Target,2,Right Foot,,Caiya Hanks,Pass (Live),,,249,1c087799,26Marie-YasmineAlidou1c0877991c087799
+90,Alexa Spaanstra,Club Crest Thorns,0.14,0,Off Target,13,Right Foot,,Payton Linnehan,Pass (Live),Payton Linnehan,Take-On,250,1c087799,77AlexaSpaanstra1c0877991c087799
+100,Jayden Perry (pen),Club Crest Thorns,0.73,0.78,Goal,13,Left Foot,,Reyna Reyes,Fouled,Olivia Moultrie,Pass (Live),251,1c087799,24JaydenPerry1c0877991c087799

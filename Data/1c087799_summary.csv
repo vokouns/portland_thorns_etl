@@ -1,0 +1,30 @@
+player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,CmpPct,PrgP,Carries,PrgC,Succ,game_id,player_id,team_name
+Deyna Castellanos,10,ve VEN,FW,26-009,73,0,0,0,0,1,0,0,0,19,0,0,1,0.1,0.1,0,0,0,3,2,30,0,12,2,1,1c087799,10DeynaCastellanos1c087799,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-028,17,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2,0,0,3,0,0,1c087799,19PietraTordin1c087799,Portland Thorns FC
+Caiya Hanks,7,us USA,LW,20-213,90,0,0,0,0,1,0,0,0,25,1,1,0,0.1,0.1,0.3,5,0,8,3,66.7,2,19,2,1,1c087799,7CaiyaHanks1c087799,Portland Thorns FC
+Reilyn Turner,66,us USA,RW,22-192,66,1,0,0,0,2,1,0,0,23,0,0,0,0.1,0.1,0,1,0,5,4,62.5,1,10,0,1,1c087799,66ReilynTurner1c087799,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-033,24,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0.1,2,0,15,2,78.9,0,12,1,1,1c087799,15PaytonLinnehan1c087799,Portland Thorns FC
+Jessie Fleming,21,ca CAN,LM,27-047,73,1,0,1,1,2,0,0,0,34,1,0,2,0.8,0.1,0.1,3,1,21,1,87.5,2,19,1,0,1c087799,21JessieFleming1c087799,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,LM,29-364,17,0,0,0,0,1,0,0,0,12,1,0,0,0.2,0.2,0,0,0,7,2,87.5,1,8,1,0,1c087799,26Marie-YasmineAlidou1c087799,Portland Thorns FC
+Hina Sugita,8,jp JPN,CM,28-086,90,0,0,0,0,0,0,0,0,42,2,1,0,0,0,0,0,0,31,1,88.6,3,21,0,1,1c087799,8HinaSugita1c087799,Portland Thorns FC
+Olivia Moultrie,13,us USA,RM,19-222,90,0,0,0,0,1,0,0,0,41,2,0,0,0.1,0.1,0,6,2,22,2,64.7,3,25,4,2,1c087799,13OliviaMoultrie1c087799,Portland Thorns FC
+Mallie McKenzie,29,us USA,LB,24-165,66,0,0,0,0,0,0,0,0,39,1,1,1,0,0,0,2,0,21,1,70,1,10,0,0,1c087799,29MallieMcKenzie1c087799,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-070,24,0,0,0,0,0,0,1,0,12,0,0,0,0,0,0,1,1,8,0,80,0,7,0,0,1c087799,2ReynaReyes1c087799,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-066,90,1,1,1,1,1,0,0,0,62,1,0,1,0.9,0.1,0,1,1,42,0,75,5,33,0,0,1c087799,24JaydenPerry1c087799,Portland Thorns FC
+Isabella Obaze,5,dk DEN,CB,22-179,90,0,0,0,0,0,0,0,0,49,2,0,1,0,0,0,0,0,28,0,71.8,1,22,1,0,1c087799,5IsabellaObaze1c087799,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-041,82,0,0,0,0,0,0,0,0,44,2,1,0,0,0,0,0,0,28,0,80,2,16,1,0,1c087799,20KaitlynTorpey1c087799,Portland Thorns FC
+Alexa Spaanstra,77,us USA,RB,25-085,8,0,0,0,0,1,0,0,0,8,1,0,0,0.1,0.1,0,0,0,5,0,100,2,3,0,0,1c087799,77AlexaSpaanstra1c087799,Portland Thorns FC
+Mackenzie Arnold,18,au AUS,GK,31-061,90,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,39,0,86.7,0,23,0,0,1c087799,18MackenzieArnold1c087799,Portland Thorns FC
+Kayla Fischer,9,us USA,FW,25-112,67,1,1,0,0,4,2,0,0,24,1,1,2,1.4,1.4,0.9,6,1,10,0,71.4,2,13,1,0,1c087799,9KaylaFischer1c087799,Racing Louisville
+Sarah Weber,42,us USA,FW,22-072,23,0,0,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,3,0,100,0,3,0,0,1c087799,42SarahWeber1c087799,Racing Louisville
+Janine Beckie,16,ca CAN,LW,30-250,90,0,1,0,0,1,1,0,0,57,3,4,3,0,0,0.3,6,2,22,1,64.7,1,31,1,0,1c087799,16JanineBeckie1c087799,Racing Louisville
+Emma Sears,13,us USA,RW,24-063,90,1,0,0,0,4,2,0,0,36,2,1,1,0.7,0.7,0.1,2,0,12,1,63.2,2,21,1,0,1c087799,13EmmaSears1c087799,Racing Louisville
+Savannah Demelo,7,us USA,AM,27-032,74,1,0,0,0,4,1,0,0,31,3,1,1,1,1,0,5,1,11,0,64.7,2,20,0,0,1c087799,7SavannahDemelo1c087799,Racing Louisville
+Katie O’Kane,20,,AM,,16,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,3,0,60,0,3,0,0,1c087799,20KatieO’Kane1c087799,Racing Louisville
+Ary Borges,8,br BRA,DM,25-120,90,0,0,0,0,0,0,0,0,47,8,1,0,0,0,0,4,0,24,0,72.7,3,18,1,0,1c087799,8AryBorges1c087799,Racing Louisville
+Taylor Flint,26,us USA,DM,26-156,90,0,0,0,0,3,0,0,0,41,3,5,1,0.2,0.2,0.1,2,0,19,1,73.1,5,10,0,1,1c087799,26TaylorFlint1c087799,Racing Louisville
+Courtney Petersen,11,us USA,LB,27-181,90,0,0,0,0,2,0,0,0,47,2,0,1,0.1,0.1,0,2,1,24,0,70.6,3,9,0,0,1c087799,11CourtneyPetersen1c087799,Racing Louisville
+Arin Wright,3,us USA,CB,32-123,90,0,0,0,0,0,0,0,0,21,1,0,2,0,0,0,0,0,13,0,92.9,1,9,1,0,1c087799,3ArinWright1c087799,Racing Louisville
+Ellie Jean,5,us USA,CB,28-086,90,0,0,0,0,0,0,0,0,40,1,1,1,0,0,0,0,0,17,1,68,1,11,0,0,1c087799,5EllieJean1c087799,Racing Louisville
+Lauren Milliet,2,us USA,RB,28-147,90,0,0,0,0,0,0,0,0,42,1,0,1,0,0,0.3,2,0,26,1,72.2,7,14,1,0,1c087799,2LaurenMilliet1c087799,Racing Louisville
+Katie Lund,1,us USA,GK,28-151,90,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,21,0,61.8,0,17,0,0,1c087799,1KatieLund1c087799,Racing Louisville
