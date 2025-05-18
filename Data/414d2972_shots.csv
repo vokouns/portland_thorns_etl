@@ -1,0 +1,17 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+7,Marie-Yasmine Alidou,Club Crest Thorns,0.3,0.82,Goal,9,Left Foot,,Caiya Hanks,Pass (Live),Reyna Reyes,Pass (Live),184,414d2972,26Marie-YasmineAlidou414d2972414d2972
+8,Esther González,Club Crest Gotham FC,0.53,0.98,Goal,6,Left Foot,,Gabi Portilho,Pass (Live),Jaelin Howell,Pass (Live),185,414d2972,9EstherGonzález414d2972414d2972
+34,Taryn Torres,Club Crest Gotham FC,0.02,0,Blocked,26,Left Foot,,Bruninha,Pass (Live),Jaelin Howell,Pass (Live),186,414d2972,8TarynTorres414d2972414d2972
+46,Jaelin Howell,Club Crest Gotham FC,0.09,0,Blocked,10,Right Foot,Volley,Nealy Martin,Pass (Live),Lilly Reale,Pass (Live),187,414d2972,7JaelinHowell414d2972414d2972
+48,Esther González,Club Crest Gotham FC,0.07,0.13,Saved,17,Right Foot,,,,,,188,414d2972,9EstherGonzález414d2972414d2972
+52,Deyna Castellanos,Club Crest Thorns,0.06,0.04,Saved,23,Right Foot,Free kick,Caiya Hanks,Fouled,Caiya Hanks,Tackle,189,414d2972,10DeynaCastellanos414d2972414d2972
+61,Caiya Hanks,Club Crest Thorns,0.16,0.82,Goal,16,Right Foot,,Sam Coffey,Pass (Live),Mallie McKenzie,Pass (Live),190,414d2972,7CaiyaHanks414d2972414d2972
+64,Caiya Hanks,Club Crest Thorns,0.12,0.07,Saved,13,Left Foot,,Caiya Hanks,Tackle,,,191,414d2972,7CaiyaHanks414d2972414d2972
+68,Caiya Hanks,Club Crest Thorns,0.04,0,Off Target,17,Left Foot,,Deyna Castellanos,Pass (Live),Isabella Obaze,Pass (Live),192,414d2972,7CaiyaHanks414d2972414d2972
+73,Jayden Perry (pen),Club Crest Thorns,0.73,0.8,Goal,13,Left Foot,,Marie-Yasmine Alidou,Fouled,Deyna Castellanos,Pass (Live),193,414d2972,24JaydenPerry414d2972
+79,Caiya Hanks,Club Crest Thorns,0.03,0,Blocked,27,Right Foot,,Marie-Yasmine Alidou,Pass (Live),Sam Coffey,Interception,194,414d2972,7CaiyaHanks414d2972414d2972
+79,Sam Coffey,Club Crest Thorns,0.11,0,Blocked,17,Right Foot,,Olivia Moultrie,Pass (Live),Caiya Hanks,Shot,195,414d2972,17SamCoffey414d2972414d2972
+80,Deyna Castellanos,Club Crest Thorns,0.19,0.48,Goal,10,Right Foot,,Sam Coffey,Shot,,,196,414d2972,10DeynaCastellanos414d2972414d2972
+93,Geyse,Club Crest Gotham FC,0.03,0.06,Saved,21,Right Foot,,Ann-Katrin Berger,Pass (Live),Jess Carter,Pass (Live),197,414d2972,10Geyse414d2972414d2972
+93,Caiya Hanks,Club Crest Thorns,0.38,0.4,Saved,12,Left Foot,,Olivia Moultrie,Pass (Live),Sophie Hirst,Pass (Live),198,414d2972,7CaiyaHanks414d2972414d2972
+96,Hina Sugita,Club Crest Thorns,0.03,0,Blocked,30,Right Foot,,Sam Coffey,Pass (Live),,,199,414d2972,8HinaSugita414d2972414d2972

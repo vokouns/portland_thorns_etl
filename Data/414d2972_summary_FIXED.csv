@@ -1,0 +1,6 @@
+player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,CmpPct,PrgP,Carries,PrgC,Succ,game_id,player_id,team_name
+Esther González,9,es ESP,FW CM,32-135,83,1,0,0,0,2,2,0,0,18,0,0,1,0.6,0.6,0,0,0,11,0,68.8,2,10,1,0,414d2972,9EstherGonzález414d2972,Gotham FC
+Jéssica Silva,20,pt POR,RM LM,30-132,17,0,0,0,0,0,0,0,0,7,1,0,0,0,0,0,0,0,4,1,66.7,2,4,0,1,414d2972,20JéssicaSilva414d2972,Gotham FC
+Jaelin Howell,7,us USA,CM DM,25-152,90,0,0,0,0,1,0,0,0,57,3,1,1,0.1,0.1,0,2,1,37,0,80.4,7,29,1,0,414d2972,7JaelinHowell414d2972,Gotham FC
+Ella Stevens,13,us USA,RM LM,27-132,45,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,3,1,60,0,3,0,0,414d2972,13EllaStevens414d2972,Gotham FC
+Geyse,10,br BRA,FW CM,27-026,29,0,0,0,0,1,1,0,0,12,0,0,0,0,0,0,0,0,4,3,80,0,6,0,0,414d2972,10Geyse414d2972,Gotham FC
