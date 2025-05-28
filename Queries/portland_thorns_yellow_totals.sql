@@ -1,4 +1,4 @@
-SELECT player, 
+SELECT player AS Player, 
 		SUM(performance_crdy) AS [Total Yellow Cards]
 FROM misc_stats
 WHERE team_name = 'Portland Thorns FC'
