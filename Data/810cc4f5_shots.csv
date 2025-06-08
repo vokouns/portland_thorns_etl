@@ -1,0 +1,27 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+9,Asisat Oshoala,Club Crest Bay FC,0.06,0.0,Woodwork,12,Right Foot,,Taylor Huff,Tackle,,,252,810cc4f5,8Asisat Oshoala810cc4f5810cc4f5
+14,Olivia Moultrie,Club Crest Thorns,0.03,0.0,Off Target,15,Left Foot,,Sam Coffey,Pass (Dead),,,253,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+14,Marie-Yasmine Alidou,Club Crest Thorns,0.04,0.0,Blocked,14,Left Foot,,Olivia Moultrie,Shot,,,254,810cc4f5,26Marie-Yasmine Alidou810cc4f5810cc4f5
+18,Olivia Moultrie,Club Crest Thorns,0.05,0.0,Blocked,14,Right Foot,,Caiya Hanks,Pass (Live),Reyna Reyes,Pass (Live),255,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+21,Olivia Moultrie,Club Crest Thorns,0.11,0.19,Saved,6,Right Foot,,Caiya Hanks,Pass (Live),Olivia Moultrie,Pass (Live),256,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+25,Caiya Hanks,Club Crest Thorns,0.03,0.0,Off Target,25,Right Foot,Volley,Marie-Yasmine Alidou,Pass (Live),Sam Coffey,Pass (Dead),257,810cc4f5,7Caiya Hanks810cc4f5810cc4f5
+29,Asisat Oshoala,Club Crest Bay FC,0.11,0.0,Off Target,17,Right Foot,,Asisat Oshoala,Take-On,Rachel Hill,Pass (Live),258,810cc4f5,8Asisat Oshoala810cc4f5810cc4f5
+30,Caiya Hanks,Club Crest Thorns,0.02,0.22,Saved,31,Right Foot,,Reyna Reyes,Pass (Live),Bella Bixby,Pass (Live),259,810cc4f5,7Caiya Hanks810cc4f5810cc4f5
+31,Reyna Reyes,Club Crest Thorns,0.06,0.0,Off Target,10,Head,,Olivia Moultrie,Pass (Dead),Caiya Hanks,Shot,260,810cc4f5,2Reyna Reyes810cc4f5810cc4f5
+32,Olivia Moultrie,Club Crest Thorns,0.18,0.23,Saved,5,Right Foot,,,,,,261,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+32,Samantha Hiatt,Club Crest Thorns,0.09,0.0,Off Target,9,Head,,Olivia Moultrie,Pass (Dead),Olivia Moultrie,Shot,262,810cc4f5,16Samantha Hiatt810cc4f5810cc4f5
+39,Alyssa Malonson,Club Crest Bay FC,0.05,0.25,Goal,12,Left Foot,,Penelope Hocking,Pass (Live),Taylor Huff,Pass (Live),263,810cc4f5,20Alyssa Malonson810cc4f5810cc4f5
+43,Caiya Hanks,Club Crest Thorns,0.06,0.2,Saved,12,Left Foot,,Caiya Hanks,Take-On,Marie-Yasmine Alidou,Pass (Live),264,810cc4f5,7Caiya Hanks810cc4f5810cc4f5
+44,Reyna Reyes,Club Crest Thorns,0.01,0.0,Off Target,12,Head,,Sam Coffey,Pass (Dead),Caiya Hanks,Shot,265,810cc4f5,2Reyna Reyes810cc4f5810cc4f5
+49,Asisat Oshoala,Club Crest Bay FC,0.03,0.0,Off Target,16,Right Foot,,Taylor Huff,Pass (Live),Rachel Hill,Pass (Live),266,810cc4f5,8Asisat Oshoala810cc4f5810cc4f5
+50,Hina Sugita,Club Crest Thorns,0.05,0.0,Blocked,13,Left Foot,Volley,Olivia Moultrie,Pass (Live),Caiya Hanks,Pass (Live),267,810cc4f5,8Hina Sugita810cc4f5810cc4f5
+46,Penelope Hocking,Club Crest Bay FC,0.12,0.0,Blocked,19,Right Foot,,Rachel Hill,Pass (Live),Taylor Huff,Pass (Live),268,810cc4f5,55Penelope Hocking810cc4f5810cc4f5
+56,Taylor Huff,Club Crest Bay FC,0.04,0.0,Off Target,11,Head,,Caroline Conti,Pass (Dead),Taylor Huff,Pass (Live),269,810cc4f5,7Taylor Huff810cc4f5810cc4f5
+67,Hannah Bebar,Club Crest Bay FC,0.04,0.0,Off Target,18,Right Foot,,Penelope Hocking,Pass (Live),Taylor Huff,Pass (Live),270,810cc4f5,41Hannah Bebar810cc4f5810cc4f5
+68,Olivia Moultrie,Club Crest Thorns,0.03,0.0,Off Target,25,Left Foot,,Pietra Tordin,Pass (Live),,,271,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+69,Olivia Moultrie,Club Crest Thorns,0.02,0.0,Blocked,28,Right Foot,,Sam Coffey,Pass (Live),Sam Coffey,Take-On,272,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+74,Racheal Kundananji,Club Crest Bay FC,0.32,0.0,Off Target,16,Left Foot,,Dorian Bailey,Pass (Live),Penelope Hocking,Pass (Live),273,810cc4f5,9Racheal Kundananji810cc4f5810cc4f5
+76,Racheal Kundananji,Club Crest Bay FC,0.02,0.18,Saved,30,Right Foot,,Caprice Dydasco,Pass (Live),Dorian Bailey,Pass (Live),274,810cc4f5,9Racheal Kundananji810cc4f5810cc4f5
+83,Olivia Moultrie,Club Crest Thorns,0.04,0.08,Saved,17,Left Foot,,Sam Coffey,Pass (Live),Olivia Moultrie,Pass (Live),275,810cc4f5,13Olivia Moultrie810cc4f5810cc4f5
+97,Racheal Kundananji,Club Crest Bay FC,0.08,0.0,Off Target,16,Left Foot,,Racheal Kundananji,Take-On,,,276,810cc4f5,9Racheal Kundananji810cc4f5810cc4f5
+98,Hina Sugita,Club Crest Thorns,0.27,0.0,Off Target,6,Left Foot,,Jessie Fleming,Pass (Live),Jessie Fleming,Take-On,277,810cc4f5,8Hina Sugita810cc4f5810cc4f5

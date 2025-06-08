@@ -1,0 +1,6 @@
+player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,CmpPct,PrgP,Carries,PrgC,Succ,game_id,player_id,team_name
+Marie-Yasmine Alidou,26,ca CAN,FW LW,30-040,62,0,0,0,0,1,0,0,0,21,1,0,0,0,0,0.1,2,0,7,2,58.3,1,7,0,1,810cc4f5,26Marie-Yasmine Alidou810cc4f5,Portland Thorns FC
+Reilyn Turner,66,us USA,LW RW,22-233,28,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,4,0,57.1,1,6,0,0,810cc4f5,66Reilyn Turner810cc4f5,Portland Thorns FC
+Caiya Hanks,7,us USA,LW RW,20-254,83,0,0,0,0,3,2,0,0,43,2,2,3,0.1,0.1,0.2,6,0,11,10,73.3,3,18,5,2,810cc4f5,7Caiya Hanks810cc4f5,Portland Thorns FC
+Hina Sugita,8,jp JPN,DM LB,28-127,90,0,0,0,0,2,0,0,0,51,2,1,2,0.3,0.3,0,0,0,23,1,67.6,1,17,0,0,810cc4f5,8Hina Sugita810cc4f5,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB RB,24-111,90,0,0,0,0,2,0,0,0,74,3,0,4,0.1,0.1,0,2,0,40,3,76.9,7,26,2,1,810cc4f5,2Reyna Reyes810cc4f5,Portland Thorns FC

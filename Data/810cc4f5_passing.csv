@@ -1,0 +1,32 @@
+player,JerseyNumber,Nation,Pos,Age,Min,total_Cmp,total_Att,total_Cmp_pct,total_TotDist,total_PrgDist,short_Cmp,short_Att,short_Cmp_pct,medium_Cmp,medium_Att,medium_Cmp_pct,long_Cmp,long_Att,long_Cmp_pct,Ast,xAG,xA,KP,final_third,PPA,CrsPA,PrgP,game_id,player_id,team_name
+Asisat Oshoala,8,ng NGA,FW,30-241,70,10,17,58.8,101,14,6,8,75.0,0,1,0.0,1,1,100.0,0,0.0,0.0,0,0,0,0,0,810cc4f5,8Asisat Oshoala810cc4f5,Bay FC
+Racheal Kundananji,9,zm ZAM,FW,25-004,20,3,6,50.0,35,15,1,2,50.0,1,2,50.0,0,0,0.0,0,0.0,0.0,0,0,0,0,0,810cc4f5,9Racheal Kundananji810cc4f5,Bay FC
+Taylor Huff,7,us USA,FW,22-295,70,20,23,87.0,252,135,8,8,100.0,7,8,87.5,0,1,0.0,0,0.1,0.1,2,2,5,0,8,810cc4f5,7Taylor Huff810cc4f5,Bay FC
+Dorian Bailey,19,us USA,FW,28-130,20,10,12,83.3,154,98,2,3,66.7,4,4,100.0,1,1,100.0,0,0.3,0.2,1,2,1,0,5,810cc4f5,19Dorian Bailey810cc4f5,Bay FC
+Penelope Hocking,55,us USA,LM,25-160,77,23,31,74.2,320,86,13,15,86.7,2,5,40.0,4,6,66.7,1,0.1,0.0,2,1,0,0,3,810cc4f5,55Penelope Hocking810cc4f5,Bay FC
+Tess Boade,12,us USA,LM,26-124,13,6,8,75.0,78,15,3,4,75.0,0,1,0.0,1,1,100.0,0,0.0,0.0,0,0,0,0,0,810cc4f5,12Tess Boade810cc4f5,Bay FC
+Hannah Bebar,41,us USA,CM,23-275,70,28,39,71.8,422,129,10,14,71.4,12,13,92.3,2,4,50.0,0,0.0,0.0,0,4,0,0,4,810cc4f5,41Hannah Bebar810cc4f5,Bay FC
+Kiki Pickett,23,us USA,CM,26-038,20,4,7,57.1,104,41,1,1,100.0,1,2,50.0,2,2,100.0,0,0.1,0.0,1,1,1,0,2,810cc4f5,23Kiki Pickett810cc4f5,Bay FC
+Caroline Conti,15,us USA,CM,24-071,90,30,41,73.2,395,176,16,19,84.2,7,7,100.0,2,5,40.0,0,0.0,0.1,1,2,1,1,3,810cc4f5,15Caroline Conti810cc4f5,Bay FC
+Rachel Hill,21,us USA,RM,30-051,90,18,30,60.0,193,42,11,15,73.3,1,2,50.0,2,3,66.7,0,0.2,0.0,2,0,0,0,0,810cc4f5,21Rachel Hill810cc4f5,Bay FC
+Alyssa Malonson,20,us USA,LB,26-059,90,33,43,76.7,469,193,21,23,91.3,9,12,75.0,2,4,50.0,0,0.0,0.0,0,1,0,0,2,810cc4f5,20Alyssa Malonson810cc4f5,Bay FC
+Jordan Brewster,2,us USA,CB,25-253,25,12,12,100.0,207,70,6,6,100.0,5,5,100.0,1,1,100.0,0,0.0,0.0,0,0,0,0,0,810cc4f5,2Jordan Brewster810cc4f5,Bay FC
+Kelli Hubly,11,us USA,CB,30-302,65,21,25,84.0,287,95,13,14,92.9,6,7,85.7,1,3,33.3,0,0.0,0.0,0,1,0,0,1,810cc4f5,11Kelli Hubly810cc4f5,Bay FC
+Abby Dahlkemper,13,us USA,CB,32-025,90,29,36,80.6,493,243,11,14,78.6,13,14,92.9,3,6,50.0,0,0.0,0.0,0,0,0,0,1,810cc4f5,13Abby Dahlkemper810cc4f5,Bay FC
+Caprice Dydasco,3,us USA,RB,31-292,90,43,54,79.6,547,301,24,28,85.7,10,10,100.0,2,3,66.7,0,0.0,0.0,1,4,0,0,2,810cc4f5,3Caprice Dydasco810cc4f5,Bay FC
+Jordan Silkowitz,29,us USA,GK,25-072,90,18,30,60.0,447,275,5,5,100.0,6,6,100.0,7,19,36.8,0,0.0,0.0,0,0,0,0,0,810cc4f5,29Jordan Silkowitz810cc4f5,Bay FC
+Marie-Yasmine Alidou,26,ca CAN,FW LW,30-040,62,7,12,58.3,108,21,2,4,50.0,4,4,100.0,0,0,0.0,0,0.1,0.0,1,0,0,0,1,810cc4f5,26Marie-Yasmine Alidou810cc4f5,Portland Thorns FC
+Reilyn Turner,66,us USA,LW RW,22-233,28,4,7,57.1,57,13,3,5,60.0,1,1,100.0,0,1,0.0,0,0.0,0.0,0,1,0,0,1,810cc4f5,66Reilyn Turner810cc4f5,Portland Thorns FC
+Caiya Hanks,7,us USA,LW RW,20-254,83,11,15,73.3,133,52,9,10,90.0,2,4,50.0,0,0,0.0,0,0.2,0.1,2,0,0,0,3,810cc4f5,7Caiya Hanks810cc4f5,Portland Thorns FC
+Alexa Spaanstra,77,us USA,RW,25-126,7,2,5,40.0,27,12,2,2,100.0,0,3,0.0,0,0,0.0,0,0.0,0.0,0,1,0,0,1,810cc4f5,77Alexa Spaanstra810cc4f5,Portland Thorns FC
+Payton Linnehan,15,us USA,RW,24-074,45,4,9,44.4,67,0,1,1,100.0,3,4,75.0,0,1,0.0,0,0.0,0.0,0,0,0,0,0,810cc4f5,15Payton Linnehan810cc4f5,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-069,45,4,4,100.0,53,22,3,3,100.0,1,1,100.0,0,0,0.0,0,0.0,0.0,1,3,0,0,2,810cc4f5,19Pietra Tordin810cc4f5,Portland Thorns FC
+Olivia Moultrie,13,us USA,AM,19-263,90,21,41,51.2,380,142,10,11,90.9,6,12,50.0,4,12,33.3,0,0.2,0.2,2,3,0,0,2,810cc4f5,13Olivia Moultrie810cc4f5,Portland Thorns FC
+Hina Sugita,8,jp JPN,DM LB,28-127,90,23,34,67.6,335,74,13,16,81.3,10,14,71.4,0,2,0.0,0,0.0,0.0,0,1,0,0,1,810cc4f5,8Hina Sugita810cc4f5,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-158,90,40,55,72.7,529,192,30,34,88.2,7,9,77.8,2,9,22.2,0,0.1,0.1,3,4,1,0,5,810cc4f5,17Sam Coffey810cc4f5,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB RB,24-111,90,40,52,76.9,623,177,16,19,84.2,24,30,80.0,0,2,0.0,0,0.0,0.0,1,5,1,0,7,810cc4f5,2Reyna Reyes810cc4f5,Portland Thorns FC
+Jayden Perry,24,us USA,CB,24-107,90,65,77,84.4,1437,520,20,20,100.0,29,32,90.6,16,21,76.2,0,0.0,0.0,0,3,1,0,6,810cc4f5,24Jayden Perry810cc4f5,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-152,90,64,78,82.1,1245,346,17,17,100.0,41,49,83.7,5,11,45.5,0,0.0,0.0,0,6,0,0,6,810cc4f5,16Samantha Hiatt810cc4f5,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-082,77,30,39,76.9,493,167,11,12,91.7,18,23,78.3,0,1,0.0,0,0.0,0.0,0,3,0,0,4,810cc4f5,20Kaitlyn Torpey810cc4f5,Portland Thorns FC
+Jessie Fleming,21,ca CAN,DM,27-088,13,7,10,70.0,110,78,5,6,83.3,2,3,66.7,0,1,0.0,0,0.3,0.3,1,1,1,1,1,810cc4f5,21Jessie Fleming810cc4f5,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-199,90,40,48,83.3,757,411,12,12,100.0,24,25,96.0,4,11,36.4,0,0.0,0.0,0,0,0,0,0,810cc4f5,1Bella Bixby810cc4f5,Portland Thorns FC
