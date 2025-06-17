@@ -1,0 +1,32 @@
+player,JerseyNumber,nation,Pos,age,min,att,pass_types_live,pass_types_dead,pass_types_fk,pass_types_tb,pass_types_sw,pass_types_crs,pass_types_ti,pass_types_ck,corner_kicks_in,corner_kicks_out,corner_kicks_str,outcomes_cmp,outcomes_off,outcomes_blocks,game_id,player_id,team_name
+Reilyn Turner,66,us USA,FW,22-241,66,9,9,0,0,0,0,1,0,0,0,0,0,8,0,0,692f1ab8,66Reilyn Turner692f1ab8,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-077,24,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,692f1ab8,19Pietra Tordin692f1ab8,Portland Thorns FC
+Caiya Hanks,7,us USA,LW,20-262,45,10,8,2,0,0,0,1,2,0,0,0,0,9,0,0,692f1ab8,7Caiya Hanks692f1ab8,Portland Thorns FC
+Payton Linnehan,15,us USA,LW,24-082,45,13,13,0,0,0,0,2,0,0,0,0,0,8,0,0,692f1ab8,15Payton Linnehan692f1ab8,Portland Thorns FC
+Olivia Moultrie,13,us USA,RW,19-271,66,23,17,6,2,0,0,6,1,3,3,0,0,14,0,1,692f1ab8,13Olivia Moultrie692f1ab8,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,RW,30-048,24,5,5,0,0,0,0,1,0,0,0,0,0,4,0,0,692f1ab8,26Marie-Yasmine Alidou692f1ab8,Portland Thorns FC
+Jessie Fleming,21,ca CAN,AM,27-096,90,34,33,1,1,0,0,2,0,0,0,0,0,22,0,3,692f1ab8,21Jessie Fleming692f1ab8,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-166,90,39,31,8,2,0,0,4,2,3,2,0,0,29,0,1,692f1ab8,17Sam Coffey692f1ab8,Portland Thorns FC
+Hina Sugita,8,jp JPN,DM,28-135,66,27,26,1,1,0,0,0,0,0,0,0,0,20,0,0,692f1ab8,8Hina Sugita692f1ab8,Portland Thorns FC
+Deyna Castellanos,10,ve VEN,DM,26-058,24,5,5,0,0,0,0,1,0,0,0,0,0,2,0,1,692f1ab8,10Deyna Castellanos692f1ab8,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-119,90,49,34,15,1,0,0,2,14,0,0,0,0,40,0,2,692f1ab8,2Reyna Reyes692f1ab8,Portland Thorns FC
+Isabella Obaze,5,dk DEN,CB,22-228,90,44,40,4,4,0,0,0,0,0,0,0,0,37,0,0,692f1ab8,5Isabella Obaze692f1ab8,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-160,90,39,36,3,3,0,0,0,0,0,0,0,0,35,0,1,692f1ab8,16Samantha Hiatt692f1ab8,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-090,77,24,18,5,0,0,0,0,5,0,0,0,0,21,1,0,692f1ab8,20Kaitlyn Torpey692f1ab8,Portland Thorns FC
+Mallie McKenzie,29,us USA,RB,24-214,13,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,692f1ab8,29Mallie McKenzie692f1ab8,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-207,90,30,18,12,5,0,0,0,0,0,0,0,0,22,0,0,692f1ab8,1Bella Bixby692f1ab8,Portland Thorns FC
+Gift Monday,21,ng NGA,FW,23-188,90,23,21,2,0,0,0,1,0,0,0,0,0,18,0,1,692f1ab8,21Gift Monday692f1ab8,Washington Spirit
+Rosemonde Kouassi,19,ci CIV,LW,23-171,90,28,28,0,0,0,0,0,0,0,0,0,0,23,0,1,692f1ab8,19Rosemonde Kouassi692f1ab8,Washington Spirit
+Brittany Ratcliffe,13,us USA,RW,31-128,59,12,11,1,0,0,0,1,1,0,0,0,0,11,0,0,692f1ab8,13Brittany Ratcliffe692f1ab8,Washington Spirit
+Makenna Morris,8,us USA,RW,23-050,31,15,10,5,0,0,0,4,1,4,1,2,0,10,0,0,692f1ab8,8Makenna Morris692f1ab8,Washington Spirit
+Croix Bethune,7,us USA,AM,24-093,59,19,17,1,0,2,0,0,0,0,0,0,0,15,1,0,692f1ab8,7Croix Bethune692f1ab8,Washington Spirit
+Courtney Brown,16,us USA,AM,24-202,31,10,10,0,0,0,0,0,0,0,0,0,0,7,0,0,692f1ab8,16Courtney Brown692f1ab8,Washington Spirit
+Hal Hershfelt,17,us USA,DM,22-255,90,51,51,0,0,0,0,0,0,0,0,0,0,43,0,0,692f1ab8,17Hal Hershfelt692f1ab8,Washington Spirit
+Narumi Miura,5,jp JPN,DM,27-347,90,35,31,4,3,1,0,6,0,1,0,1,0,25,0,0,692f1ab8,5Narumi Miura692f1ab8,Washington Spirit
+Casey Krueger,3,us USA,LB,34-296,45,40,33,7,1,0,0,1,6,0,0,0,0,31,0,3,692f1ab8,3Casey Krueger692f1ab8,Washington Spirit
+Rebeca Bernal,4,mx MEX,CB,27-288,45,32,30,2,2,0,0,0,0,0,0,0,0,31,0,0,692f1ab8,4Rebeca Bernal692f1ab8,Washington Spirit
+Esme Morgan,24,eng ENG,CB,24-240,82,65,54,11,2,0,0,0,0,0,0,0,0,61,0,0,692f1ab8,24Esme Morgan692f1ab8,Washington Spirit
+Kysha Sylla,25,fr FRA,CB,21-131,8,3,3,0,0,0,0,0,0,0,0,0,0,2,0,0,692f1ab8,25Kysha Sylla692f1ab8,Washington Spirit
+Tara McKeown,9,us USA,RB CB,25-348,90,57,53,4,0,1,0,1,4,0,0,0,0,45,0,0,692f1ab8,9Tara McKeown692f1ab8,Washington Spirit
+Gabrielle Carle,14,ca CAN,LB RB,26-246,90,56,37,19,2,0,0,3,17,0,0,0,0,37,0,4,692f1ab8,14Gabrielle Carle692f1ab8,Washington Spirit
+Aubrey Kingsbury,1,us USA,GK,33-207,90,31,29,2,1,0,0,0,0,0,0,0,0,28,0,0,692f1ab8,1Aubrey Kingsbury692f1ab8,Washington Spirit

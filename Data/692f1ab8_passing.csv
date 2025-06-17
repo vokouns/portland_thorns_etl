@@ -1,0 +1,32 @@
+player,JerseyNumber,Nation,Pos,Age,Min,total_Cmp,total_Att,total_Cmp_pct,total_TotDist,total_PrgDist,short_Cmp,short_Att,short_Cmp_pct,medium_Cmp,medium_Att,medium_Cmp_pct,long_Cmp,long_Att,long_Cmp_pct,Ast,xAG,xA,KP,final_third,PPA,CrsPA,PrgP,game_id,player_id,team_name
+Reilyn Turner,66,us USA,FW,22-241,66,8,9,88.9,98,27,5,5,100.0,3,3,100.0,0,1,0.0,0,0.0,0.0,0,0,0,0,1,692f1ab8,66Reilyn Turner692f1ab8,Portland Thorns FC
+Pietra Tordin,19,us USA,FW,21-077,24,4,5,80.0,58,16,2,2,100.0,2,3,66.7,0,0,0.0,0,0.0,0.0,0,0,0,0,2,692f1ab8,19Pietra Tordin692f1ab8,Portland Thorns FC
+Caiya Hanks,7,us USA,LW,20-262,45,9,10,90.0,97,33,8,8,100.0,1,2,50.0,0,0,0.0,0,0.0,0.0,0,0,1,0,2,692f1ab8,7Caiya Hanks692f1ab8,Portland Thorns FC
+Payton Linnehan,15,us USA,LW,24-082,45,8,13,61.5,113,36,5,6,83.3,1,3,33.3,1,3,33.3,0,0.0,0.0,0,1,0,0,1,692f1ab8,15Payton Linnehan692f1ab8,Portland Thorns FC
+Olivia Moultrie,13,us USA,RW,19-271,66,14,23,60.9,245,85,6,6,100.0,5,7,71.4,2,6,33.3,0,0.2,0.2,2,1,1,0,3,692f1ab8,13Olivia Moultrie692f1ab8,Portland Thorns FC
+Marie-Yasmine Alidou,26,ca CAN,RW,30-048,24,4,5,80.0,55,17,3,3,100.0,1,2,50.0,0,0,0.0,0,0.1,0.0,1,1,0,0,1,692f1ab8,26Marie-Yasmine Alidou692f1ab8,Portland Thorns FC
+Jessie Fleming,21,ca CAN,AM,27-096,90,22,34,64.7,363,220,14,15,93.3,3,9,33.3,4,5,80.0,2,0.6,0.4,3,5,2,1,5,692f1ab8,21Jessie Fleming692f1ab8,Portland Thorns FC
+Sam Coffey,17,us USA,DM,26-166,90,29,39,74.4,458,159,13,15,86.7,12,13,92.3,2,7,28.6,0,0.1,0.1,2,1,2,0,5,692f1ab8,17Sam Coffey692f1ab8,Portland Thorns FC
+Hina Sugita,8,jp JPN,DM,28-135,66,20,27,74.1,281,60,11,14,78.6,8,11,72.7,0,1,0.0,0,0.0,0.0,1,4,0,0,4,692f1ab8,8Hina Sugita692f1ab8,Portland Thorns FC
+Deyna Castellanos,10,ve VEN,DM,26-058,24,2,5,40.0,57,26,1,2,50.0,0,1,0.0,1,2,50.0,0,0.0,0.0,1,1,0,0,1,692f1ab8,10Deyna Castellanos692f1ab8,Portland Thorns FC
+Reyna Reyes,2,mx MEX,LB,24-119,90,40,49,81.6,654,333,26,28,92.9,11,14,78.6,3,5,60.0,0,0.0,0.1,0,5,1,1,3,692f1ab8,2Reyna Reyes692f1ab8,Portland Thorns FC
+Isabella Obaze,5,dk DEN,CB,22-228,90,37,44,84.1,719,343,15,16,93.8,16,20,80.0,6,8,75.0,0,0.1,0.1,2,1,0,0,2,692f1ab8,5Isabella Obaze692f1ab8,Portland Thorns FC
+Samantha Hiatt,16,us USA,CB,27-160,90,35,39,89.7,733,363,8,9,88.9,22,24,91.7,4,4,100.0,0,0.2,0.0,1,3,1,0,5,692f1ab8,16Samantha Hiatt692f1ab8,Portland Thorns FC
+Kaitlyn Torpey,20,au AUS,RB,25-090,77,21,24,87.5,334,121,11,13,84.6,8,8,100.0,2,2,100.0,0,0.1,0.2,1,1,0,0,1,692f1ab8,20Kaitlyn Torpey692f1ab8,Portland Thorns FC
+Mallie McKenzie,29,us USA,RB,24-214,13,0,1,0.0,0,0,0,0,0.0,0,1,0.0,0,0,0.0,0,0.0,0.0,0,0,0,0,0,692f1ab8,29Mallie McKenzie692f1ab8,Portland Thorns FC
+Bella Bixby,1,us USA,GK,29-207,90,22,30,73.3,460,270,5,5,100.0,13,13,100.0,4,12,33.3,0,0.0,0.0,0,0,0,0,0,692f1ab8,1Bella Bixby692f1ab8,Portland Thorns FC
+Gift Monday,21,ng NGA,FW,23-188,90,18,23,78.3,221,34,13,14,92.9,4,7,57.1,0,0,0.0,0,0.1,0.1,1,0,1,0,1,692f1ab8,21Gift Monday692f1ab8,Washington Spirit
+Rosemonde Kouassi,19,ci CIV,LW,23-171,90,23,28,82.1,369,59,10,11,90.9,12,12,100.0,1,3,33.3,0,0.2,0.1,2,1,1,0,3,692f1ab8,19Rosemonde Kouassi692f1ab8,Washington Spirit
+Brittany Ratcliffe,13,us USA,RW,31-128,59,11,12,91.7,122,8,9,9,100.0,2,3,66.7,0,0,0.0,0,0.0,0.0,0,0,0,0,0,692f1ab8,13Brittany Ratcliffe692f1ab8,Washington Spirit
+Makenna Morris,8,us USA,RW,23-050,31,10,15,66.7,151,79,7,8,87.5,1,2,50.0,1,4,25.0,0,0.0,0.0,0,2,0,0,1,692f1ab8,8Makenna Morris692f1ab8,Washington Spirit
+Croix Bethune,7,us USA,AM,24-093,59,15,19,78.9,200,56,7,8,87.5,6,7,85.7,0,1,0.0,0,0.0,0.1,1,1,1,0,3,692f1ab8,7Croix Bethune692f1ab8,Washington Spirit
+Courtney Brown,16,us USA,AM,24-202,31,7,10,70.0,78,7,7,9,77.8,0,1,0.0,0,0,0.0,0,0.0,0.0,0,0,0,0,0,692f1ab8,16Courtney Brown692f1ab8,Washington Spirit
+Hal Hershfelt,17,us USA,DM,22-255,90,43,51,84.3,655,197,23,26,88.5,19,23,82.6,1,2,50.0,0,0.0,0.1,1,6,1,0,7,692f1ab8,17Hal Hershfelt692f1ab8,Washington Spirit
+Narumi Miura,5,jp JPN,DM,27-347,90,25,35,71.4,454,222,15,17,88.2,5,12,41.7,5,6,83.3,0,0.1,0.1,2,3,3,2,1,692f1ab8,5Narumi Miura692f1ab8,Washington Spirit
+Casey Krueger,3,us USA,LB,34-296,45,31,40,77.5,458,154,17,20,85.0,14,15,93.3,0,2,0.0,0,0.0,0.0,0,0,0,0,1,692f1ab8,3Casey Krueger692f1ab8,Washington Spirit
+Rebeca Bernal,4,mx MEX,CB,27-288,45,31,32,96.9,600,254,5,5,100.0,25,25,100.0,1,2,50.0,0,0.0,0.0,0,5,1,0,4,692f1ab8,4Rebeca Bernal692f1ab8,Washington Spirit
+Esme Morgan,24,eng ENG,CB,24-240,82,61,65,93.8,1131,332,19,20,95.0,36,38,94.7,3,4,75.0,0,0.0,0.0,0,3,0,0,2,692f1ab8,24Esme Morgan692f1ab8,Washington Spirit
+Kysha Sylla,25,fr FRA,CB,21-131,8,2,3,66.7,55,28,0,1,0.0,1,1,100.0,1,1,100.0,0,0.0,0.0,0,1,0,0,2,692f1ab8,25Kysha Sylla692f1ab8,Washington Spirit
+Tara McKeown,9,us USA,RB CB,25-348,90,45,57,78.9,865,412,19,23,82.6,19,24,79.2,7,10,70.0,0,0.1,0.4,1,4,0,0,5,692f1ab8,9Tara McKeown692f1ab8,Washington Spirit
+Gabrielle Carle,14,ca CAN,LB RB,26-246,90,37,56,66.1,626,283,17,20,85.0,19,27,70.4,1,5,20.0,0,0.4,0.3,2,2,1,1,1,692f1ab8,14Gabrielle Carle692f1ab8,Washington Spirit
+Aubrey Kingsbury,1,us USA,GK,33-207,90,28,31,90.3,509,276,13,13,100.0,12,12,100.0,3,6,50.0,0,0.0,0.0,0,1,0,0,1,692f1ab8,1Aubrey Kingsbury692f1ab8,Washington Spirit

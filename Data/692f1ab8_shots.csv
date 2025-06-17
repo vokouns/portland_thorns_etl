@@ -1,0 +1,31 @@
+minute,player,squad,xg,psxg,outcome,distance,body_part,notes,sca_1_player,sca_1_event,sca_2_player,sca_2_event,shot_id,game_id,player_id
+4,Jessie Fleming,Club Crest Thorns,0.06,0.0,Off Target,23,Right Foot,,Isabella Obaze,Pass (Live),Isabella Obaze,Take-On,278,692f1ab8,21JessieFleming692f1ab8692f1ab8
+8,Samantha Hiatt,Club Crest Thorns,0.18,0.73,Saved,8,Head,,Jessie Fleming,Pass (Live),Hina Sugita,Pass (Live),279,692f1ab8,16SamanthaHiatt692f1ab8692f1ab8
+12,Jessie Fleming,Club Crest Thorns,0.04,0.0,Off Target,31,Right Foot,,Hina Sugita,Pass (Live),,,280,692f1ab8,21JessieFleming692f1ab8692f1ab8
+13,Reilyn Turner,Club Crest Thorns,0.14,0.0,Off Target,8,Head,,Olivia Moultrie,Pass (Dead),Reilyn Turner,Pass (Live),281,692f1ab8,66ReilynTurner692f1ab8692f1ab8
+16,Gabrielle Carle,Club Crest Spirit,0.03,0.0,Blocked,24,Left Foot,,Hal Hershfelt,Pass (Live),Gabrielle Carle,Pass (Live),282,692f1ab8,14GabrielleCarle692f1ab8692f1ab8
+16,Hal Hershfelt,Club Crest Spirit,0.03,0.04,Saved,26,Left Foot,Deflected,Croix Bethune,Pass (Live),Hal Hershfelt,Pass (Live),283,692f1ab8,17HalHershfelt692f1ab8692f1ab8
+22,Hina Sugita,Club Crest Thorns,0.1,0.0,Blocked,25,Left Foot,,Hina Sugita,Take-On,Sam Coffey,Pass (Live),284,692f1ab8,8HinaSugita692f1ab8692f1ab8
+23,Gift Monday,Club Crest Spirit,0.1,0.19,Saved,16,Right Foot,Deflected,Rosemonde Kouassi,Pass (Live),Casey Krueger,Pass (Live),285,692f1ab8,21GiftMonday692f1ab8692f1ab8
+24,Hina Sugita,Club Crest Thorns,0.2,0.0,Off Target,24,Right Foot,,Samantha Hiatt,Pass (Live),Isabella Obaze,Pass (Live),286,692f1ab8,8HinaSugita692f1ab8692f1ab8
+27,Reilyn Turner,Club Crest Thorns,0.2,0.0,Blocked,3,Right Foot,,,,,,287,692f1ab8,66ReilynTurner692f1ab8692f1ab8
+28,Jessie Fleming,Club Crest Thorns,0.03,0.0,Blocked,27,Right Foot,,Reilyn Turner,Shot,,,288,692f1ab8,21JessieFleming692f1ab8692f1ab8
+28,Reilyn Turner,Club Crest Thorns,0.07,0.0,Off Target,10,Right Foot,Volley,Isabella Obaze,Pass (Live),,,289,692f1ab8,66ReilynTurner692f1ab8692f1ab8
+34,Rosemonde Kouassi,Club Crest Spirit,0.08,0.0,Blocked,12,Right Foot,,Narumi Miura,Pass (Dead),Narumi Miura,Fouled,290,692f1ab8,19RosemondeKouassi692f1ab8692f1ab8
+36,Olivia Moultrie,Club Crest Thorns,0.04,0.0,Off Target,26,Left Foot,,Sam Coffey,Pass (Live),Reyna Reyes,Pass (Live),291,692f1ab8,13OliviaMoultrie692f1ab8692f1ab8
+37,Rosemonde Kouassi,Club Crest Spirit,0.03,0.0,Off Target,27,Left Foot,Volley,Gift Monday,Fouled,Tara McKeown,Pass (Live),292,692f1ab8,19RosemondeKouassi692f1ab8692f1ab8
+39,Reilyn Turner,Club Crest Thorns,0.25,0.6,Goal,13,Right Foot,,Jessie Fleming,Pass (Live),Samantha Hiatt,Pass (Live),293,692f1ab8,66ReilynTurner692f1ab8692f1ab8
+41,Sam Coffey,Club Crest Thorns,0.1,0.0,Blocked,12,Right Foot,,Kaitlyn Torpey,Pass (Live),Olivia Moultrie,Pass (Live),294,692f1ab8,17SamCoffey692f1ab8692f1ab8
+57,Payton Linnehan,Club Crest Thorns,0.03,0.28,Saved,12,Left Foot,,Olivia Moultrie,Pass (Live),Bella Bixby,Pass (Dead),295,692f1ab8,15PaytonLinnehan692f1ab8692f1ab8
+64,Courtney Brown,Club Crest Spirit,0.34,0.0,Off Target,9,Head,,Gabrielle Carle,Pass (Live),Gabrielle Carle,Interception,296,692f1ab8,16CourtneyBrown692f1ab8692f1ab8
+68,Jessie Fleming,Club Crest Thorns,0.08,0.74,Saved,14,Right Foot,,Marie-Yasmine Alidou,Pass (Live),Reyna Reyes,Pass (Live),297,692f1ab8,21JessieFleming692f1ab8692f1ab8
+70,Kaitlyn Torpey,Club Crest Thorns,0.03,0.04,Saved,20,Right Foot,Volley,Deyna Castellanos,Pass (Live),Pietra Tordin,Pass (Live),298,692f1ab8,20KaitlynTorpey692f1ab8692f1ab8
+73,Makenna Morris,Club Crest Spirit,0.04,0.0,Woodwork,29,Right Foot,,Makenna Morris,Take-On,Gabrielle Carle,Pass (Live),299,692f1ab8,8MakennaMorris692f1ab8692f1ab8
+76,Narumi Miura,Club Crest Spirit,0.04,0.0,Blocked,15,Right Foot,,Rebeca Bernal,Pass (Live),Hal Hershfelt,Pass (Live),300,692f1ab8,5NarumiMiura692f1ab8692f1ab8
+81,Makenna Morris,Club Crest Spirit,0.08,0.15,Saved,21,Right Foot,,Gift Monday,Pass (Live),Makenna Morris,Pass (Live),301,692f1ab8,8MakennaMorris692f1ab8692f1ab8
+82,Pietra Tordin,Club Crest Thorns,0.15,0.22,Goal,26,Right Foot,Volley,Jessie Fleming,Pass (Live),Reyna Reyes,Pass (Live),302,692f1ab8,19PietraTordin692f1ab8692f1ab8
+86,Marie-Yasmine Alidou,Club Crest Thorns,0.02,0.0,Blocked,17,Right Foot,,Sam Coffey,Pass (Live),Sam Coffey,Tackle,303,692f1ab8,26Marie-YasmineAlidou692f1ab8692f1ab8
+88,Tara McKeown,Club Crest Spirit,0.02,0.0,Off Target,9,Head,,Narumi Miura,Pass (Live),Gabrielle Carle,Pass (Dead),304,692f1ab8,9TaraMcKeown692f1ab8692f1ab8
+90,Makenna Morris,Club Crest Spirit,0.06,0.0,Blocked,19,Right Foot,,Rosemonde Kouassi,Pass (Live),Makenna Morris,Pass (Live),305,692f1ab8,8MakennaMorris692f1ab8692f1ab8
+92,Rebeca Bernal,Club Crest Spirit,0.12,0.0,Blocked,22,Right Foot,Free kick,Gabrielle Carle,Fouled,Narumi Miura,Pass (Live),306,692f1ab8,4RebecaBernal692f1ab8692f1ab8
+92,Gift Monday,Club Crest Spirit,0.12,0.09,Saved,8,Head,,Tara McKeown,Pass (Live),Makenna Morris,Pass (Dead,307,692f1ab8,21GiftMonday692f1ab8692f1ab8

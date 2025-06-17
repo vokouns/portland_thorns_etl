@@ -1,0 +1,3 @@
+player,JerseyNumber,Nation,Pos,Age,Min,Gls,Ast,PK,PKatt,Sh,SoT,CrdY,CrdR,Touches,Tkl,Int,Blocks,xG,npxG,xAG,SCA,GCA,Cmp,Att,CmpPct,PrgP,Carries,PrgC,Succ,game_id,player_id,team_name
+Tara McKeown,9,us USA,RB CB,25-348,90,0,0,0,0,1,0,0,0,73,0,2,4,0,0,0.1,2,0,45,1,78.9,5,41,0,1,692f1ab8,9TaraMcKeown692f1ab8,Washington Spirit
+Gabrielle Carle,14,ca CAN,LB RB,26-246,90,0,0,0,0,1,0,0,0,75,1,2,2,0,0,0.4,6,0,37,2,66.1,1,30,3,1,692f1ab8,14GabrielleCarle692f1ab8,Washington Spirit
